@@ -3,7 +3,12 @@
 
 Introduction 
 
-Hi there, I'm a baiyuechu.
+- 👋 Hi, I’m baiyuechu
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- ⚡ Fun fact: ...
+
 - Places where you can contact me: 
 
     [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/600704648038580235)
