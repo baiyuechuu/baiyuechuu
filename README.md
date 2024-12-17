@@ -19,13 +19,14 @@ Introduction
     [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/baiyuechu)
     [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.com/invoice/p/#HZWF8VQHDL9SV9WL)
 
-If you want buy for me a few coffee. This is my momo, click `Other Methods` to see it
+<!--
 <details> 
 <summary> Other Methods</summary>
 <br>
   <img src='./qr.jpeg'/>
 <hr>
 </details>
+-->
 
 ```
                .........................
