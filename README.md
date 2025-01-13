@@ -20,16 +20,7 @@ Introduction
     [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.com/invoice/p/#HZWF8VQHDL9SV9WL)
 
 - My CV:
-    <a href="https://github.com/xiaoyaoo11/xiaoyaoo11/blob/main/cv.pdf">Download it here</a>
-
-<!--
-<details> 
-<summary> Other Methods</summary>
-<br>
-  <img src='./qr.jpeg'/>
-<hr>
-</details>
--->
+    <a href="https://github.com/xiaoyaoo11/xiaoyaoo11/blob/main/cv.pdf">My resume</a>
 
 ```
                .........................
