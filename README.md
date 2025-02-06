@@ -1,4 +1,4 @@
-Introduction 
+<h1 align="center">☄️ Introduction</h1>
 
 - 👋 Hi, I’m baiyuechu
 - 🌱 I’m currently learning everything
@@ -20,7 +20,7 @@ Introduction
     <a href="https://github.com/xiaoyaoo11/xiaoyaoo11/blob/main/cv.pdf">My resume</a>
 
 ```lua
-yinyang("Welcome to my profile! ☯️ ");
+yinyang("Welcome to my profile ☯️!");
 connect("My email: baiyuechu11@gmail.com");
 ```
 
