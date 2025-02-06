@@ -4,20 +4,19 @@
 - 🌱 I’m currently learning everything
 - ⚡ Fun fact: I ...
 
-- Places where you can contact me 😎: 
+- 😎 Places where you can contact me: 
 
     [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1283052810874654771)
     [![Reddit](https://img.shields.io/badge/Reddit-FF5700?style=for-the-badge&logo=Reddit&logoColor=white)](https://www.reddit.com/user/Bulky_Worth9352)
     [![Facebook](https://img.shields.io/badge/Facebook-0084ff?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/dongfangxiaobai11/)
 
--  Funding 🤑:
+- 🤑 Funding:
 
     [![Buy Me A Coffer](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/ebevutruq)
     [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/baiyuechu)
     [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.com/invoice/p/#HZWF8VQHDL9SV9WL)
 
-- My CV 💫:
-    <a href="https://github.com/xiaoyaoo11/xiaoyaoo11/blob/main/cv.pdf">My resume</a>
+- 💫 My CV: [My Resume](https://drive.google.com/file/d/1OEVupQfq39_vvXiCrTo0abaI4vtsDt3-/view?usp=sharing)
 
 ```lua
 yinyang("Welcome to my profile ☯️!");
