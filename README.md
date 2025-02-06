@@ -1,6 +1,3 @@
-<!-- <img src="hihi.gif" width="1000px" height="170px"> -->
-<!-- <img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" style="display: block;margin-left: auto;margin-right: auto;margin-bottom:5px;width:1500px;"> -->
-
 Introduction 
 
 - 👋 Hi, I’m baiyuechu
@@ -32,10 +29,10 @@ Introduction
 /'\_   _/`\
 \___)=(___/                         
 ```
-<div align="center" style="padding: 10px; border: 2px solid;
-  border-image-slice: 1;
-  border-image-source: linear-gradient(to right bottom, #6a5af9, #f62682);">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,figma,tailwind,git,gitlab,arch,cmake,neovim,photoshop" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,mongodb,c,cpp,java,nextjs,mysql,bash,linux,discord" /><br>
+
+<div align="center" style="padding: 10px;">
+    <img src="https://skillicons.dev/icons?i=react,html,css,vscode,github,figma,tailwind,git,arch,cmake,neovim,photoshop" />
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,mongodb,c,cpp,nextjs,bash,linux,discord" /><br>
 </div>
+
 <img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" style="display: block;margin-left: auto;margin-right: auto;margin-bottom:5px;width:1500px;">
