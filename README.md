@@ -21,6 +21,7 @@ Introduction
 
 ```lua
 yinyang("Welcome to my profile! ☯️ ");
+connect("My email: baiyuechu11@gmail.com");
 ```
 
 <div align="center" style="padding: 10px;">
