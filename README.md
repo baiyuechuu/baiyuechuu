@@ -1,20 +1,65 @@
 <h1 align="center">☄️ Introduction</h1>
 
-- 👋 Hi, I’m baiyuechu
-- 🌱 I’m currently learning everything
-- ⚡ Fun fact: I ...
+👋 Hi, I’m baiyuechu
 
-- 😎 Places where you can contact me:
+🌱 I’m currently learning everything
 
-  [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1283052810874654771)
-  [![Reddit](https://img.shields.io/badge/Reddit-FF5700?style=for-the-badge&logo=Reddit&logoColor=white)](https://www.reddit.com/user/Bulky_Worth9352)
-  [![Facebook](https://img.shields.io/badge/Facebook-0084ff?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/dongfangxiaobai11/)
+⚡ Fun fact: I ...
 
-- 🤑 Funding:
+### Places where you can contact me
 
-  [![Buy Me A Coffer](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/ebevutruq)
-  [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/baiyuechu)
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.com/invoice/p/#HZWF8VQHDL9SV9WL)
+  [![Discord](https://ziadoua.github.io/m3-Markdown-Badges/badges/Discord/discord2.svg)](https://discord.com/users/1283052810874654771)
+  [![Reddit](https://ziadoua.github.io/m3-Markdown-Badges/badges/Reddit/reddit2.svg)](https://www.reddit.com/user/Bulky_Worth9352)
+  [![Intagram](https://ziadoua.github.io/m3-Markdown-Badges/badges/Instagram/instagram2.svg)](https://www.instagram.com/macy_0411/)
+  [![Linkedin](https://ziadoua.github.io/m3-Markdown-Badges/badges/LinkedIn/linkedin1.svg)](https://www.linkedin.com/in/%C4%91%C3%B4ng-ph%C6%B0%C6%A1ng-b%E1%BA%A1ch-128476325/)
+  [![My Portfolio](https://ziadoua.github.io/m3-Markdown-Badges/badges/MyPortfolio/myportfolio2.svg)](https://baiyuechu.vercel.app/)
+
+### Funding
+
+  [![Buy Me A Coffer](https://ziadoua.github.io/m3-Markdown-Badges/badges/BuyMeACoffee/buymeacoffee2.svg)](https://buymeacoffee.com/ebevutruq)
+  [![Ko-Fi](https://ziadoua.github.io/m3-Markdown-Badges/badges/Ko-fi/ko-fi2.svg)](https://ko-fi.com/baiyuechu)
+  [![PayPal](https://ziadoua.github.io/m3-Markdown-Badges/badges/PayPal/paypal2.svg)](https://www.paypal.com/invoice/p/#HZWF8VQHDL9SV9WL)
+ [![Sponsor](https://ziadoua.github.io/m3-Markdown-Badges/badges/Sponsor/sponsor2.svg)](https://www.patreon.com/ebevutruq)
+
+### Some Skills
+
+![](https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html2.svg)
+![](https://ziadoua.github.io/m3-Markdown-Badges/badges/CSS/css2.svg)
+![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript2.svg)
+![](https://ziadoua.github.io/m3-Markdown-Badges/badges/AndroidStudio/androidstudio2.svg)
+![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Arch/arch2.svg)
+![](https://ziadoua.github.io/m3-Markdown-Badges/badges/C/c2.svg)
+![](https://ziadoua.github.io/m3-Markdown-Badges/badges/C++/c++2.svg)
+![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Dart/dart2.svg)
+![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Docker/docker2.svg)
+![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Expo/expo2.svg)
+![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Express/express2.svg)
+![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Figma/figma2.svg)
+![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Firebase/firebase2.svg)
+![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Flutter/flutter2.svg)
+![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Git/git3.svg)
+![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github3.svg)
+![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Go/go2.svg)
+![](https://ziadoua.github.io/m3-Markdown-Badges/badges/jQuery/jquery2.svg)
+![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Linux/linux2.svg)
+![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Lua/lua2.svg)
+![](https://ziadoua.github.io/m3-Markdown-Badges/badges/MongoDB/mongodb2.svg)
+![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Neovim/neovim2.svg)
+![](https://ziadoua.github.io/m3-Markdown-Badges/badges/NextJS/nextjs2.svg)
+![](https://ziadoua.github.io/m3-Markdown-Badges/badges/NodeJS/nodejs2.svg)
+![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Photoshop/photoshop2.svg)
+![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Postman/postman1.svg)
+![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python2.svg)![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Qt/qt2.svg)
+![](https://ziadoua.github.io/m3-Markdown-Badges/badges/RaspberryPI/raspberrypi2.svg)
+![](https://ziadoua.github.io/m3-Markdown-Badges/badges/React/react2.svg)
+![](https://ziadoua.github.io/m3-Markdown-Badges/badges/ReactNative/reactnative2.svg)
+![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Shell/shell3.svg)
+![](https://ziadoua.github.io/m3-Markdown-Badges/badges/TailwindCSS/tailwindcss2.svg)
+![](https://ziadoua.github.io/m3-Markdown-Badges/badges/TypeScript/typescript2.svg)
+![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Vercel/vercel3.svg)
+![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Vim/vim2.svg)
+![](https://ziadoua.github.io/m3-Markdown-Badges/badges/VisualStudioCode/visualstudiocode2.svg)
+
 
 - 💫 My CV: [My Resume](https://drive.google.com/file/d/1OEVupQfq39_vvXiCrTo0abaI4vtsDt3-/view?usp=sharing)
 
