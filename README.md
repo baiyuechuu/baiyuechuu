@@ -1,25 +1,19 @@
-<h1 align="center">☄️ Introduction</h1>
+# 👋 Hi, I’m baiyuechu
 
-👋 Hi, I’m baiyuechu
-
-🌱 I’m currently learning everything
-
-⚡ Fun fact: I ...
-
-### Places where you can contact me
+#### Places where you can contact me
 
 [![Discord](https://ziadoua.github.io/m3-Markdown-Badges/badges/Discord/discord2.svg)](https://discord.com/users/1276006640486715467)
 [![Reddit](https://ziadoua.github.io/m3-Markdown-Badges/badges/Reddit/reddit2.svg)](https://www.reddit.com/user/Bulky_Worth9352/)
-[![Telegram](https://ziadoua.github.io/m3-Markdown-Badges/badges/Telegram/telegram2.svg)]()
+[![Telegram](https://ziadoua.github.io/m3-Markdown-Badges/badges/Telegram/telegram2.svg)](https://t.me/+Z9-5aUkpjSpiYmY1)
 [![My Portfolio](https://ziadoua.github.io/m3-Markdown-Badges/badges/MyPortfolio/myportfolio2.svg)](https://baiyuechu.vercel.app/)
 
-### Funding
+#### Funding
 
-[![Buy Me A Coffer](https://ziadoua.github.io/m3-Markdown-Badges/badges/BuyMeACoffee/buymeacoffee2.svg)]()
-[![Ko-Fi](https://ziadoua.github.io/m3-Markdown-Badges/badges/Ko-fi/ko-fi2.svg)]()
+[![Buy Me A Coffer](https://ziadoua.github.io/m3-Markdown-Badges/badges/BuyMeACoffee/buymeacoffee2.svg)](buymeacoffee.com/ebevutruq)
+[![Ko-Fi](https://ziadoua.github.io/m3-Markdown-Badges/badges/Ko-fi/ko-fi2.svg)](https://ko-fi.com/baiyuechu)
 [![Sponsor](https://ziadoua.github.io/m3-Markdown-Badges/badges/Sponsor/sponsor2.svg)](https://github.com/sponsors/xiaoyaoo11)
 
-### Some Skills
+#### Some Skills
 
 ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html2.svg)
 ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/CSS/css2.svg)
@@ -53,7 +47,7 @@
 ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Vercel/vercel3.svg)
 ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Vim/vim2.svg)
 
-### My CV: [My Resume]()
+##### My CV: [My Resume]()
 
 <!--<div align="center" style="padding: 10px;">-->
 <!--    <img src="https://skillicons.dev/icons?i=html" />-->
@@ -84,8 +78,5 @@
 <!--    <img src="https://skillicons.dev/icons?i=photoshop" /> -->
 <!--</div>-->
 
-<img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" style="display: block;margin-left: auto;margin-right: auto;margin-bottom:5px;width:1500px;">
-
 <img align='center' src= "header.png">
-
-<img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" style="display: block;margin-left: auto;margin-right: auto;margin-bottom:5px;width:1500px;">
+<img align="center" src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" style="display: block;margin-left: auto;margin-right: auto;margin-bottom:5px;width:1500px;">
