@@ -8,18 +8,18 @@
 
 ### Places where you can contact me
 
-  [![Discord](https://ziadoua.github.io/m3-Markdown-Badges/badges/Discord/discord2.svg)](https://discord.com/users/1283052810874654771)
-  [![Reddit](https://ziadoua.github.io/m3-Markdown-Badges/badges/Reddit/reddit2.svg)](https://www.reddit.com/user/Bulky_Worth9352)
-  [![Intagram](https://ziadoua.github.io/m3-Markdown-Badges/badges/Instagram/instagram2.svg)](https://www.instagram.com/macy_0411/)
-  [![Linkedin](https://ziadoua.github.io/m3-Markdown-Badges/badges/LinkedIn/linkedin1.svg)](https://www.linkedin.com/in/%C4%91%C3%B4ng-ph%C6%B0%C6%A1ng-b%E1%BA%A1ch-128476325/)
-  [![My Portfolio](https://ziadoua.github.io/m3-Markdown-Badges/badges/MyPortfolio/myportfolio2.svg)](https://baiyuechu.vercel.app/)
+[![Discord](https://ziadoua.github.io/m3-Markdown-Badges/badges/Discord/discord2.svg)]()
+[![Reddit](https://ziadoua.github.io/m3-Markdown-Badges/badges/Reddit/reddit2.svg)]()
+[![Intagram](https://ziadoua.github.io/m3-Markdown-Badges/badges/Instagram/instagram2.svg)](https://www.instagram.com/macy_0411/)
+[![Telegram](https://ziadoua.github.io/m3-Markdown-Badges/badges/Telegram/telegram2.svg)]()
+[![My Portfolio](https://ziadoua.github.io/m3-Markdown-Badges/badges/MyPortfolio/myportfolio2.svg)](https://baiyuechu.vercel.app/)
 
 ### Funding
 
-  [![Buy Me A Coffer](https://ziadoua.github.io/m3-Markdown-Badges/badges/BuyMeACoffee/buymeacoffee2.svg)](https://buymeacoffee.com/ebevutruq)
-  [![Ko-Fi](https://ziadoua.github.io/m3-Markdown-Badges/badges/Ko-fi/ko-fi2.svg)](https://ko-fi.com/baiyuechu)
-  [![PayPal](https://ziadoua.github.io/m3-Markdown-Badges/badges/PayPal/paypal2.svg)](https://www.paypal.com/invoice/p/#HZWF8VQHDL9SV9WL)
- [![Sponsor](https://ziadoua.github.io/m3-Markdown-Badges/badges/Sponsor/sponsor2.svg)](https://www.patreon.com/ebevutruq)
+[![Buy Me A Coffer](https://ziadoua.github.io/m3-Markdown-Badges/badges/BuyMeACoffee/buymeacoffee2.svg)]()
+[![Ko-Fi](https://ziadoua.github.io/m3-Markdown-Badges/badges/Ko-fi/ko-fi2.svg)]()
+[![PayPal](https://ziadoua.github.io/m3-Markdown-Badges/badges/PayPal/paypal2.svg)]()
+[![Sponsor](https://ziadoua.github.io/m3-Markdown-Badges/badges/Sponsor/sponsor2.svg)](https://github.com/sponsors/xiaoyaoo11)
 
 ### Some Skills
 
@@ -60,13 +60,7 @@
 ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Vim/vim2.svg)
 ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/VisualStudioCode/visualstudiocode2.svg)
 
-
-- 💫 My CV: [My Resume](https://drive.google.com/file/d/1OEVupQfq39_vvXiCrTo0abaI4vtsDt3-/view?usp=sharing)
-
-```lua
-yinyang("Welcome to my profile ☯️!");
-connect("My email: baiyuechu11@gmail.com");
-```
+### My CV: [My Resume]()
 
 <!--<div align="center" style="padding: 10px;">-->
 <!--    <img src="https://skillicons.dev/icons?i=html" />-->
