@@ -91,6 +91,8 @@
 <!--    <img src="https://skillicons.dev/icons?i=photoshop" /> -->
 <!--</div>-->
 
+<img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" style="display: block;margin-left: auto;margin-right: auto;margin-bottom:5px;width:1500px;">
+
 <img align='center' src= "header.png">
 
 <img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" style="display: block;margin-left: auto;margin-right: auto;margin-bottom:5px;width:1500px;">
