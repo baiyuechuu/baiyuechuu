@@ -13,39 +13,18 @@
 [![Ko-Fi](https://ziadoua.github.io/m3-Markdown-Badges/badges/Ko-fi/ko-fi2.svg)](https://ko-fi.com/baiyuechu)
 [![Sponsor](https://ziadoua.github.io/m3-Markdown-Badges/badges/Sponsor/sponsor2.svg)](https://github.com/sponsors/xiaoyaoo11)
 
-#### Some Skills
+#### Technical Skills
 
-![](https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html2.svg)
-![](https://ziadoua.github.io/m3-Markdown-Badges/badges/CSS/css2.svg)
-![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript2.svg)
-![](https://ziadoua.github.io/m3-Markdown-Badges/badges/AndroidStudio/androidstudio2.svg)
-![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Arch/arch2.svg)
-![](https://ziadoua.github.io/m3-Markdown-Badges/badges/C/c2.svg)
-![](https://ziadoua.github.io/m3-Markdown-Badges/badges/C++/c++2.svg)
-![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Dart/dart2.svg)
-![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Docker/docker2.svg)
-![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Express/express2.svg)
-![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Firebase/firebase2.svg)
-![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Flutter/flutter2.svg)
-![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Git/git3.svg)
-![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github3.svg)
-![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Go/go2.svg)
-![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Linux/linux2.svg)
-![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Lua/lua2.svg)
-![](https://ziadoua.github.io/m3-Markdown-Badges/badges/MongoDB/mongodb2.svg)
-![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Neovim/neovim2.svg)
-![](https://ziadoua.github.io/m3-Markdown-Badges/badges/NextJS/nextjs2.svg)
-![](https://ziadoua.github.io/m3-Markdown-Badges/badges/NodeJS/nodejs2.svg)
-![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Photoshop/photoshop2.svg)
-![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Postman/postman1.svg)
-![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python2.svg)![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Qt/qt2.svg)
-![](https://ziadoua.github.io/m3-Markdown-Badges/badges/RaspberryPI/raspberrypi2.svg)
-![](https://ziadoua.github.io/m3-Markdown-Badges/badges/React/react2.svg)
-![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Shell/shell3.svg)
-![](https://ziadoua.github.io/m3-Markdown-Badges/badges/TailwindCSS/tailwindcss2.svg)
-![](https://ziadoua.github.io/m3-Markdown-Badges/badges/TypeScript/typescript2.svg)
-![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Vercel/vercel3.svg)
-![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Vim/vim2.svg)
+| Category              | Technologies                                                                                                                                                                                                                                                                                                                                                                            |
+| --------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Frontend              | ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html2.svg) ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/CSS/css2.svg) ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript2.svg) ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/React/react2.svg)                                                                             |
+| Backend               | ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/NodeJS/nodejs2.svg) ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Express/express2.svg) ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/MongoDB/mongodb2.svg)                                                                                                                                                 |
+| Programming Languages | ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/TypeScript/typescript2.svg) ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python2.svg) ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/C/c2.svg) ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/C++/c++2.svg) ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Lua/lua2.svg)           |
+| Mobile Development    | ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Flutter/flutter2.svg) ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/AndroidStudio/androidstudio2.svg)                                                                                                                                                                                                                 |
+| DevOps & Tools        | ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Docker/docker2.svg) ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Git/git3.svg) ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github3.svg) ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Vercel/vercel3.svg) ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Postman/postman1.svg) |
+| OS & Environment      | ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Linux/linux2.svg) ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Arch/arch2.svg) ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Shell/shell3.svg)                                                                                                                                                             |
+| IDE & Editors         | ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Neovim/neovim2.svg) ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Vim/vim2.svg) ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/VisualStudioCode/visualstudiocode2.svg)                                                                                                                                       |
+| Others                | ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Qt/qt2.svg) ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/RaspberryPI/raspberrypi2.svg) ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Photoshop/photoshop2.svg)                                                                                                                                             |
 
 ##### My CV: [My Resume]()
 
