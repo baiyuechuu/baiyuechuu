@@ -5,7 +5,7 @@
 [![Discord](https://ziadoua.github.io/m3-Markdown-Badges/badges/Discord/discord2.svg)](https://discord.com/users/1276006640486715467)
 [![Reddit](https://ziadoua.github.io/m3-Markdown-Badges/badges/Reddit/reddit2.svg)](https://www.reddit.com/user/Bulky_Worth9352/)
 [![Telegram](https://ziadoua.github.io/m3-Markdown-Badges/badges/Telegram/telegram2.svg)](https://t.me/+Z9-5aUkpjSpiYmY1)
-[![My Portfolio](https://ziadoua.github.io/m3-Markdown-Badges/badges/MyPortfolio/myportfolio2.svg)]([https://baiyuechu.vercel.app/](https://www.baiyuechu.dev/))
+[![My Portfolio](https://ziadoua.github.io/m3-Markdown-Badges/badges/MyPortfolio/myportfolio2.svg)](https://www.baiyuechu.dev/)
 
 #### Funding
 
