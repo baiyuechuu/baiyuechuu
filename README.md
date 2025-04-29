@@ -30,8 +30,6 @@
 
 </div>
 
-##### My CV: [My Resume]()
-
 <!--<div align="center" style="padding: 10px;">-->
 <!--    <img src="https://skillicons.dev/icons?i=html" />-->
 <!--    <img src="https://skillicons.dev/icons?i=css" />-->
