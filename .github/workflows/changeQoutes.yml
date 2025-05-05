@@ -1,9 +1,12 @@
 name: Change qoute every day and push to GitHub
 on:
   schedule:
-    - cron: "0 0 * * *"
-    - cron: "0 8 * * *"
-    - cron: "0 16 * * *"
+schedule:
+  - cron: "0 17 * * *"  
+  - cron: "0 23 * * *" 
+  - cron: "0 5 * * *" 
+  - cron: "0 11 * * *"
+  - cron: "0 14 * * *"
   workflow_dispatch:
 jobs:
   update-quotes:
@@ -15,8 +18,6 @@ jobs:
         uses: actions/setup-node@v3
         with:
           node-version: '20'
-      - name: Install dependencies
-        run: npm install
       - name: Run index.js
         run: npm start
       - name: Commit quote changes
