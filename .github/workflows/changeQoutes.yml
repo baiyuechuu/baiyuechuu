@@ -25,4 +25,4 @@ jobs:
           git config --global user.email "taitran411789@gmail.com"
           git add .
           git diff --cached --quiet || git commit -m "changes: Quotes"
-          git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }} HEAD:main
+          git push
