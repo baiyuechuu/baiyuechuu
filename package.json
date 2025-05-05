@@ -1,0 +1,12 @@
+{
+	"name": "baiyuechu111",
+	"main": "index.js",
+	"type": "module",
+	"scripts": {
+		"start": "node index.js"
+	},
+	"dependencies": {
+		"axios": "^1.9.0",
+		"node-fetch": "^3.3.2"
+	}
+}

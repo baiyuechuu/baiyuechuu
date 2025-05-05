@@ -1,5 +1,9 @@
 # 👋 Hi, I’m baiyuechu
 
+> _**“读书使人进步，实践使人更强。”**_ - 毛泽东
+
+
+
 #### Places where you can contact me
 
 [![Discord](https://ziadoua.github.io/m3-Markdown-Badges/badges/Discord/discord2.svg)](https://discord.com/users/1276006640486715467)
@@ -17,18 +21,17 @@
 
 <div align="center">
 
-| Category              | Technologies                                                                                                |
-| --------------------- | ----------------------------------------------------------------------------------------------------------- |
+| Category              | Technologies                                                                                                                           |
+| --------------------- | -------------------------------------------------------------------------------------------------------------------------------------- |
 | Frontend              | [![Frontend Skills](https://skillicons.dev/icons?i=html,css,scss,javascript,typescript,react,tailwind,nextjs)](https://skillicons.dev) |
-| Backend               | [![Backend Skills](https://skillicons.dev/icons?i=nodejs,express,mongodb)](https://skillicons.dev,firebase) |
-| Programming Languages | [![Programming Skills](https://skillicons.dev/icons?i=python,c,cpp,lua)](https://skillicons.dev) |
-| Mobile Development    | [![Mobile Skills](https://skillicons.dev/icons?i=flutter,dart)](https://skillicons.dev) |
-| Tools        | [![Tools Skills](https://skillicons.dev/icons?i=docker,git,github,vercel,postman)](https://skillicons.dev) |
-| OS & Environment      | [![OS Skills](https://skillicons.dev/icons?i=linux,arch,bash,windows)](https://skillicons.dev) |
-| IDE & Editors         | [![IDE Skills](https://skillicons.dev/icons?i=neovim,vim,vscode)](https://skillicons.dev) |
-| Design                | [![Design Skills](https://skillicons.dev/icons?i=figma,ps)](https://skillicons.dev) |
-| Others                | [![Other Skills](https://skillicons.dev/icons?i=qt,raspberrypi,tauri)](https://skillicons.dev) |
-
+| Backend               | [![Backend Skills](https://skillicons.dev/icons?i=nodejs,express,mongodb)](https://skillicons.dev,firebase)                            |
+| Programming Languages | [![Programming Skills](https://skillicons.dev/icons?i=python,c,cpp,lua)](https://skillicons.dev)                                       |
+| Mobile Development    | [![Mobile Skills](https://skillicons.dev/icons?i=flutter,dart)](https://skillicons.dev)                                                |
+| Tools                 | [![Tools Skills](https://skillicons.dev/icons?i=docker,git,github,vercel,postman)](https://skillicons.dev)                             |
+| OS & Environment      | [![OS Skills](https://skillicons.dev/icons?i=linux,arch,bash,windows)](https://skillicons.dev)                                         |
+| IDE & Editors         | [![IDE Skills](https://skillicons.dev/icons?i=neovim,vim,vscode)](https://skillicons.dev)                                              |
+| Design                | [![Design Skills](https://skillicons.dev/icons?i=figma,ps)](https://skillicons.dev)                                                    |
+| Others                | [![Other Skills](https://skillicons.dev/icons?i=qt,raspberrypi,tauri)](https://skillicons.dev)                                         |
 
 </div>
 
