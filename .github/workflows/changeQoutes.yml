@@ -24,5 +24,5 @@ jobs:
           git config --global user.name "baiyuechu111"
           git config --global user.email "taitran411789@gmail.com"
           git add .
-          git commit -m "change: qoute" || echo "No changes to commit"
-          git push
+          git diff --cached --quiet || git commit -m "changes: Quotes"
+          git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }} HEAD:main
