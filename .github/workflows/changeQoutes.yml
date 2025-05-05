@@ -18,7 +18,7 @@ jobs:
       - name: Install dependencies
         run: npm install
       - name: Run index.js
-        run: node index.js
+        run: npm start
       - name: Commit quote changes
         run: |
           git config --global user.name "baiyuechu111"
