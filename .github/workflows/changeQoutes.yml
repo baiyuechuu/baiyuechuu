@@ -1,4 +1,4 @@
-name: Daily Task and Commit
+name: Change qoute every day and push to GitHub
 on:
   schedule:
     - cron: "0 0 * * *"
