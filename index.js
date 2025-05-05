@@ -4,7 +4,7 @@ import path from "node:path";
 const __filename = new URL(import.meta.url).pathname;
 const __dirname = path.dirname(__filename);
 
-const quotesFilePath = path.resolve(__dirname, "qoutes.json"); // Đảm bảo tệp là 'qoutes.json'
+const quotesFilePath = path.resolve(__dirname, "qoutes.json");
 const readmePath = path.resolve(__dirname, "README.md");
 
 const DefaultQuote = {
@@ -12,7 +12,6 @@ const DefaultQuote = {
 	author: "Baiyuechu111",
 };
 
-// Đọc tệp JSON và lấy câu trích dẫn ngẫu nhiên
 const getQuote = () => {
 	try {
 		const data = readFileSync(quotesFilePath, "utf8");
@@ -27,7 +26,6 @@ const getQuote = () => {
 	}
 };
 
-// Cập nhật README.md với câu trích dẫn mới
 const updateReadme = (quoteBlock) => {
 	try {
 		let readmeContent = readFileSync(readmePath, "utf8");
