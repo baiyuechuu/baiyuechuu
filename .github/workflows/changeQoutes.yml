@@ -24,5 +24,5 @@ jobs:
           git config --global user.name "baiyuechu111"
           git config --global user.email "taitran411789@gmail.com"
           git add .
-          git diff --cached --quiet || git commit -m "changes: Quotes"
+          git commit -m "changes: Quotes" || echo "No changes"
           git push
