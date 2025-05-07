@@ -1,5 +1,8 @@
 name: Change qoute every day and push to GitHub
 on:
+  push:
+    branches:
+      - main
   schedule:
     - cron: "0 17 * * *"
     - cron: "0 23 * * *"
