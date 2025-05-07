@@ -4,37 +4,189 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>baiyuechu - Info</title>
+    <link rel="stylesheet" href="style.css" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap"
+      rel="stylesheet"
+    />
     <style>
+      :root {
+        --primary-color: #4c6ef5;
+        --secondary-color: #fa5252;
+        --bg-color: #f9fafb;
+        --text-color: #333;
+        --card-bg: white;
+        --section-spacing: 2.5rem;
+        --border-radius: 12px;
+        --shadow:
+          0 10px 15px -3px rgba(0, 0, 0, 0.1),
+          0 4px 6px -2px rgba(0, 0, 0, 0.05);
+      }
+
+      * {
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+      }
+
       body {
-        font-family: sans-serif;
-        max-width: 900px;
-        margin: 2rem auto;
-        padding: 0 1rem;
-        line-height: 1.6;
+        font-family: "Poppins", sans-serif;
+        max-width: 1000px;
+        margin: 3rem auto;
+        padding: 0 1.5rem;
+        line-height: 1.7;
+        background-color: var(--bg-color);
+        color: var(--text-color);
       }
+
+      h1,
+      h3 {
+        position: relative;
+        display: inline-block;
+        margin-bottom: 1.5rem;
+        font-weight: 700;
+      }
+
+      h1 {
+        font-size: 2.5rem;
+        margin-top: 1rem;
+        background: linear-gradient(
+          to right,
+          var(--primary-color),
+          var(--secondary-color)
+        );
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+        background-clip: text;
+        animation: fadeIn 1s ease-in;
+      }
+
+      h3 {
+        font-size: 1.5rem;
+        margin-top: 2rem;
+        color: var(--primary-color);
+      }
+
+      h3::after {
+        content: "";
+        position: absolute;
+        left: 0;
+        bottom: -8px;
+        height: 3px;
+        width: 60px;
+        background: linear-gradient(
+          to right,
+          var(--primary-color),
+          var(--secondary-color)
+        );
+        border-radius: 3px;
+      }
+
+      p {
+        margin-bottom: 1.5rem;
+      }
+
+      .section {
+        background-color: var(--card-bg);
+        border-radius: var(--border-radius);
+        padding: 2rem;
+        margin-bottom: var(--section-spacing);
+        box-shadow: var(--shadow);
+        transition: transform 0.3s ease;
+      }
+
+      .section:hover {
+        transform: translateY(-5px);
+      }
+
       img.badge {
-        height: 32px;
-        margin-right: 8px;
+        height: 36px;
+        margin-right: 12px;
         vertical-align: middle;
+        transition: transform 0.2s ease;
       }
+
+      img.badge:hover {
+        transform: scale(1.1);
+      }
+
       table {
         border-collapse: collapse;
         width: 100%;
+        border-radius: var(--border-radius);
+        overflow: hidden;
+        box-shadow: 0 0 20px rgba(0, 0, 0, 0.05);
       }
+
       th,
       td {
-        padding: 8px;
+        padding: 15px;
         text-align: left;
         vertical-align: middle;
       }
+
+      th {
+        background-color: var(--primary-color);
+        color: white;
+        font-weight: 600;
+        text-transform: uppercase;
+        font-size: 0.9rem;
+        letter-spacing: 1px;
+      }
+
+      tr:nth-child(even) {
+        background-color: rgba(0, 0, 0, 0.02);
+      }
+
       div.center {
         text-align: center;
+      }
+
+      .header-img {
+        border-radius: var(--border-radius);
+        box-shadow: var(--shadow);
+      }
+
+      .rainbow {
+        max-width: 100%;
+        margin-top: 20px;
+        border-radius: var(--border-radius);
+      }
+
+      @keyframes fadeIn {
+        from {
+          opacity: 0;
+          transform: translateY(-20px);
+        }
+        to {
+          opacity: 1;
+          transform: translateY(0);
+        }
+      }
+
+      /* Mobile responsiveness */
+      @media (max-width: 768px) {
+        body {
+          margin: 1.5rem auto;
+          padding: 0 1rem;
+        }
+
+        h1 {
+          font-size: 2rem;
+        }
+
+        table {
+          display: block;
+          overflow-x: auto;
+        }
       }
     </style>
   </head>
   <body>
-    <h1>👋 Hi, I’m baiyuechu</h1>
-
+    <h1>👋 Hi, I'm baiyuechu</h1>
+    <br>
     <h3>Places where you can contact me</h3>
     <p>
       <a href="https://discord.com/users/1276006640486715467">
@@ -187,12 +339,14 @@
       <img
         src="header.png"
         alt="Header Image"
+        class="header-img"
         style="max-width: 100%; margin-top: 20px"
       />
       <img
         src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif"
         alt="Rainbow"
-        style="max-width: 100%; margin-top: 10px"
+        class="rainbow"
+        style="width: 1000px; margin-top: 10px"
       />
     </div>
   </body>
