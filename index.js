@@ -1,4 +1,4 @@
-import { readFileSync, writeFileSync } from "node:fs";
+import { createReadStream, readFileSync, writeFileSync } from "node:fs";
 import path from "node:path";
 
 const __filename = new URL(import.meta.url).pathname;
@@ -56,4 +56,11 @@ const updateReadme = (quoteBlock) => {
 	if (quote && author) {
 		updateReadme(quoteBlock);
 	}
+
+	const src = createReadStream("info.md", {
+		flags: "r",
+		encoding: "utf8",
+	});
+
+	src.pipe(process.stdout);
 })();
