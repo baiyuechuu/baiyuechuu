@@ -23,15 +23,15 @@
 
 | Category              | Technologies                                                                                                                           |
 | --------------------- | -------------------------------------------------------------------------------------------------------------------------------------- |
-| Frontend              | [![Frontend Skills](https://skillicons.dev/icons?i=html,css,scss,javascript,typescript,react,tailwind,nextjs)](https://skillicons.dev) |
-| Backend               | [![Backend Skills](https://skillicons.dev/icons?i=nodejs,express,mongodb)](https://skillicons.dev,firebase)                            |
-| Programming Languages | [![Programming Skills](https://skillicons.dev/icons?i=python,c,cpp,lua)](https://skillicons.dev)                                       |
+| Frontend              | [![Frontend Skills](https://skillicons.dev/icons?i=html,css,scss,pug,react,tailwind,nextjs)](https://skillicons.dev) |
+| Backend               | [![Backend Skills](https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase)](https://skillicons.dev)                            |
+| Programming Languages | [![Programming Skills](https://skillicons.dev/icons?i=javascript,typescript,python,c,cpp,lua)](https://skillicons.dev)                                       |
 | Mobile Development    | [![Mobile Skills](https://skillicons.dev/icons?i=flutter,dart)](https://skillicons.dev)                                                |
-| Tools                 | [![Tools Skills](https://skillicons.dev/icons?i=docker,git,github,vercel,postman)](https://skillicons.dev)                             |
-| OS & Environment      | [![OS Skills](https://skillicons.dev/icons?i=linux,arch,bash,windows)](https://skillicons.dev)                                         |
+| Tools                 | [![Tools Skills](https://skillicons.dev/icons?i=docker,git,github,gitlab,vercel,postman,bun)](https://skillicons.dev)                             |
+| OS & Environment      | [![OS Skills](https://skillicons.dev/icons?i=linux,arch,bash,ubuntu,windows)](https://skillicons.dev)                                         |
 | IDE & Editors         | [![IDE Skills](https://skillicons.dev/icons?i=neovim,vim,vscode)](https://skillicons.dev)                                              |
-| Design                | [![Design Skills](https://skillicons.dev/icons?i=figma,ps)](https://skillicons.dev)                                                    |
-| Others                | [![Other Skills](https://skillicons.dev/icons?i=qt,raspberrypi,tauri)](https://skillicons.dev)                                         |
+| Design                | [![Design Skills](https://skillicons.dev/icons?i=figma,ps,ai)](https://skillicons.dev)                                                    |
+| Others                | [![Other Skills](https://skillicons.dev/icons?i=qt,raspberrypi,tauri,cmake,latex,md,nginx)](https://skillicons.dev)                                         |
 
 </div>
 
