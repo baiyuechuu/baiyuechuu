@@ -471,7 +471,7 @@
       // Set initial theme
       if (currentTheme === "dark") {
         document.documentElement.setAttribute("data-theme", "dark");
-        themeToggle.innerHTML = "🌜";
+        themeToggle.innerHTML = "🌕";
       }
 
       // Handle theme toggle
@@ -483,7 +483,7 @@
           isDark ? "light" : "dark",
         );
         localStorage.setItem("theme", isDark ? "light" : "dark");
-        themeToggle.innerHTML = isDark ? "🌞" : "🌜";
+        themeToggle.innerHTML = isDark ? "☀️" : "🌕";
       });
     </script>
   </body>
