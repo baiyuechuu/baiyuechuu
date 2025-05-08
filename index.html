@@ -25,6 +25,10 @@
           0 4px 6px -2px rgba(0, 0, 0, 0.05);
       }
 
+      a {
+        text-decoration: none;
+      }
+
       [data-theme="dark"] {
         --bg-color: #111827;
         --text-color: #f9fafb;
@@ -208,7 +212,8 @@
           -webkit-overflow-scrolling: touch;
         }
 
-        th, td {
+        th,
+        td {
           padding: 12px;
           min-width: 120px;
         }
@@ -225,12 +230,13 @@
           background: var(--card-bg);
           z-index: 1;
           font-weight: 500;
-          box-shadow: 2px 0 5px rgba(0,0,0,0.1);
+          box-shadow: 2px 0 5px rgba(0, 0, 0, 0.1);
         }
       }
 
       @media screen and (max-width: 480px) {
-        th, td {
+        th,
+        td {
           padding: 10px;
           font-size: 0.9rem;
         }
