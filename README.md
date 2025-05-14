@@ -1,4 +1,4 @@
-# <p>Hi, I'm Baiyue Chu <img src="./wave.png" width="66" height="66"></p>
+# <p>Hi, I'm Baiyue Chu <img src="./wave.png" width="55" height="55"></p>
 
 > _**“不以物喜，不以己悲。”**_ - 苏轼
 
