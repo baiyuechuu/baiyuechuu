@@ -4,7 +4,7 @@ import path from "node:path";
 const __filename = new URL(import.meta.url).pathname;
 const __dirname = path.dirname(__filename);
 
-const quotesFilePath = path.resolve(__dirname, "qoutes.json");
+const quotesFilePath = path.resolve(__dirname, "quotes.json");
 const readmePath = path.resolve(__dirname, "README.md");
 
 const DefaultQuote = {
