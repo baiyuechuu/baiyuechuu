@@ -1,6 +1,6 @@
 # <p>Hi, I'm Baiyue Chu <img src="./wave.png" width="55" height="55"></p>
 
-> _**“不以物喜，不以己悲。”**_ - 苏轼
+> _**“东风不与周郎便，铜雀春深锁二乔。”**_ - 杜牧
 
 #### Places where you can contact me
 
@@ -33,5 +33,7 @@
 
 </div>
 
-<img align='center' src= "header.png">
-<img align="center" src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" style="display: block;margin-left: auto;margin-right: auto;margin-bottom:5px;width:1500px;">
+<p align="center">
+  <img src="header.png" width="100%" alt="Header Image">
+  <img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%" alt="Rainbow Animation">
+</p>

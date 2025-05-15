@@ -1,4 +1,4 @@
-import { createReadStream, readFileSync, writeFileSync } from "node:fs";
+import { readFileSync, writeFileSync } from "node:fs";
 import path from "node:path";
 
 const __filename = new URL(import.meta.url).pathname;
@@ -30,16 +30,19 @@ const updateReadme = (quoteBlock) => {
 	try {
 		let readmeContent = readFileSync(readmePath, "utf8");
 
-		const headingRegex = /^#\s+👋\s+Hi,\s+I['’]m\s+baiyuechu.*$/m;
+		const headingRegex = /^#\s*<p>Hi,\s*I['’]m\s*Baiyue\s*Chu.*?<\/p>/im;
 		const match = readmeContent.match(headingRegex);
 		if (!match) return;
 
 		const headingLine = match[0];
+
+		const pattern = new RegExp(
+			`(${headingLine})(\\n+> _\\*\\*.*?\\*\\*_ - .*?\\n+)?`,
+			"si",
+		);
+
 		const updatedContent = readmeContent.replace(
-			new RegExp(
-				`(${headingLine})(\\n\\n> _\\*\\*.*?\\*\\*_ - .*?\\n\\n)?`,
-				"s",
-			),
+			pattern,
 			`$1\n\n${quoteBlock}`,
 		);
 
