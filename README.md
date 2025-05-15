@@ -1,6 +1,6 @@
 # <p>Hi, I'm Baiyue Chu <img src="./wave.png" width="55" height="55"></p>
 
-> _**“得道者多助，失道者寡助。”**_ - 《孟子》
+> _**“天若有情天亦老，人间正道是沧桑。”**_ - 唐代·辛弃疾
 
 #### Places where you can contact me
 
