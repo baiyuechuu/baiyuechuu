@@ -1,6 +1,6 @@
 # <p>Hi, I'm Baiyue Chu <img src="./wave.png" width="55" height="55"></p>
 
-> _**时间会告诉我们，简单的喜欢最长远。**_ - 佚名
+> _**“长风破浪会有时，直挂云帆济沧海。”**_ - 李白
 
 #### Places where you can contact me
 
