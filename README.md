@@ -1,6 +1,6 @@
 # <p>Hi, I'm Baiyue Chu <img src="./wave.png" width="55" height="55"></p>
 
-> _**“路漫漫其修远兮，吾将上下而求索。”**_ - 屈原
+> _**“思君不见下渝州，空忆夜月。”**_ - 王昌龄
 
 #### Places where you can contact me
 
