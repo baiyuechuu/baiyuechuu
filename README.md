@@ -1,6 +1,6 @@
 # <p>Hi, I'm Baiyue Chu <img src="./wave.png" width="55" height="55"></p>
 
-> _**“一寸光阴一寸金，寸金难买寸光阴。”**_ - 谚语
+> _**“落霞与孤鹜齐飞，秋水共长天一色。”**_ - 王勃
 
 #### Places where you can contact me
 
