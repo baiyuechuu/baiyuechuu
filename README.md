@@ -1,6 +1,6 @@
 # <p>Hi, I'm Baiyue Chu <img src="./wave.png" width="55" height="55"></p>
 
-> _**“敏而好学，不耻下问。”**_ - 孔子
+> _**“生于忧患，死于安乐。”**_ - 孟子
 
 #### Places where you can contact me
 
