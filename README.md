@@ -1,6 +1,6 @@
 # <p>Hi, I'm Baiyue Chu <img src="./wave.png" width="55" height="55"></p>
 
-> _**“记住你是谁，记住你要做什么。”**_ - 古人
+> _**机不可失，时不再来。**_ - 古谚
 
 #### Places where you can contact me
 
