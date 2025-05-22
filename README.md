@@ -1,6 +1,6 @@
 # <p>Hi, I'm Baiyue Chu <img src="./wave.png" width="55" height="55"></p>
 
-> _**“自古英雄出少年。”**_ - 杨洪基
+> _**“少壮不努力，老大徒伤悲。”**_ - 汉乐府
 
 #### Places where you can contact me
 
