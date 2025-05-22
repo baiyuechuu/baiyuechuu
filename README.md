@@ -1,6 +1,6 @@
 # <p>Hi, I'm Baiyue Chu <img src="./wave.png" width="55" height="55"></p>
 
-> _**“少壮不努力，老大徒伤悲。”**_ - 汉乐府
+> _**没有碰巧的成功，也没有白费的努力。**_ - 古谚
 
 #### Places where you can contact me
 
