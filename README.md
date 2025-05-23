@@ -1,6 +1,6 @@
 # <p>Hi, I'm Baiyue Chu <img src="./wave.png" width="55" height="55"></p>
 
-> _**你若盛开，清风自来。**_ - 林清玄
+> _**“雾失楼台，月迷津渡。”**_ - 李清照
 
 #### Places where you can contact me
 
