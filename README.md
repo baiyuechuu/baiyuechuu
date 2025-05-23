@@ -1,6 +1,6 @@
 # <p>Hi, I'm Baiyue Chu <img src="./wave.png" width="55" height="55"></p>
 
-> _**你若不想做，会找到一个借口；你若想做，会找到一个方法。**_ - 古谚
+> _**你若盛开，清风自来。**_ - 林清玄
 
 #### Places where you can contact me
 
