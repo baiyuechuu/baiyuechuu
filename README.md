@@ -1,6 +1,6 @@
 # <p>Hi, I'm Baiyue Chu <img src="./wave.png" width="55" height="55"></p>
 
-> _**“书到用时方恨少，事非经过不知难。”**_ - 陆游
+> _**“大江东去，浪淘尽，千古风流人物。”**_ - 苏轼
 
 #### Places where you can contact me
 
