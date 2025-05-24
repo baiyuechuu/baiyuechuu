@@ -1,6 +1,6 @@
 # <p>Hi, I'm Baiyue Chu <img src="./wave.png" width="55" height="55"></p>
 
-> _**“天命自有时，事在人为。”**_ - 曹操
+> _**别让人生，输给了心情。**_ - 佚名
 
 #### Places where you can contact me
 
