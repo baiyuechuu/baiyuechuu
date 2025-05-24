@@ -1,6 +1,6 @@
 # <p>Hi, I'm Baiyue Chu <img src="./wave.png" width="55" height="55"></p>
 
-> _**别让人生，输给了心情。**_ - 佚名
+> _**“学而不思则罔，思而不学则殆。”**_ - 孔子
 
 #### Places where you can contact me
 
