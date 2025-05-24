@@ -1,6 +1,6 @@
 # <p>Hi, I'm Baiyue Chu <img src="./wave.png" width="55" height="55"></p>
 
-> _**只要站起来的次数比倒下去的次数多，那就是成功。**_ - 古谚
+> _**“天命自有时，事在人为。”**_ - 曹操
 
 #### Places where you can contact me
 
