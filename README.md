@@ -1,6 +1,6 @@
 # <p>Hi, I'm Baiyue Chu <img src="./wave.png" width="55" height="55"></p>
 
-> _**感谢遇见，感谢陪伴。**_ - 佚名
+> _**“知人者智，自知者明。”**_ - 老子
 
 #### Places where you can contact me
 
