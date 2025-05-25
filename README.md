@@ -1,6 +1,6 @@
 # <p>Hi, I'm Baiyue Chu <img src="./wave.png" width="55" height="55"></p>
 
-> _**人生没有如果，只有结果。**_ - 佚名
+> _**“知识就是力量。”**_ - 弗朗西斯·培根
 
 #### Places where you can contact me
 
