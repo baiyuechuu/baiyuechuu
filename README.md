@@ -1,6 +1,6 @@
 # <p>Hi, I'm Baiyue Chu <img src="./wave.png" width="55" height="55"></p>
 
-> _**“一日不见，如三秋兮。”**_ - 《诗经》
+> _**“不经一事，不长一智。”**_ - 古人
 
 #### Places where you can contact me
 
