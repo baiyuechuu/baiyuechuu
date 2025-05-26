@@ -1,6 +1,6 @@
 # <p>Hi, I'm Baiyue Chu <img src="./wave.png" width="55" height="55"></p>
 
-> _**你可以拖延，但时间不会。**_ - 佚名
+> _**“千锤万凿出深山，烈火焚烧若等闲。”**_ - 唐代·林则徐
 
 #### Places where you can contact me
 
