@@ -1,6 +1,6 @@
 # <p>Hi, I'm Baiyue Chu <img src="./wave.png" width="55" height="55"></p>
 
-> _**“一日不见，如三秋兮。”**_ - 《诗经》
+> _**“人一能之，己百之；人十能之，己千之。”**_ - 《孟子》
 
 #### Places where you can contact me
 
