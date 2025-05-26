@@ -1,6 +1,6 @@
 # <p>Hi, I'm Baiyue Chu <img src="./wave.png" width="55" height="55"></p>
 
-> _**“书到用时方恨少，事非经过不知难。”**_ - 陆游
+> _**对未来最好的准备就是：今天做的最好。**_ - 古谚
 
 #### Places where you can contact me
 
