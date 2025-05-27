@@ -1,6 +1,6 @@
 # <p>Hi, I'm Baiyue Chu <img src="./wave.png" width="55" height="55"></p>
 
-> _**“真理是时间的女儿，而不是权威的女儿。”**_ - 哥白尼
+> _**“知识就是力量。”**_ - 弗朗西斯·培根
 
 #### Places where you can contact me
 
