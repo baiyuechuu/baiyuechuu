@@ -1,6 +1,6 @@
 # <p>Hi, I'm Baiyue Chu <img src="./wave.png" width="55" height="55"></p>
 
-> _**你不勇敢，没人替你坚强。**_ - 佚名
+> _**生活不是等待暴风雨过去，而是学会在雨中跳舞。**_ - 佚名
 
 #### Places where you can contact me
 
