@@ -1,6 +1,6 @@
 # <p>Hi, I'm Baiyue Chu <img src="./wave.png" width="55" height="55"></p>
 
-> _**“风雨之后，见彩虹。”**_ - 古人
+> _**“钟鼓馔玉不足贵，但愿长醉不复醒。”**_ - 李白
 
 #### Places where you can contact me
 
