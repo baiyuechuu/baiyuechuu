@@ -1,6 +1,6 @@
 # <p>Hi, I'm Baiyue Chu <img src="./wave.png" width="55" height="55"></p>
 
-> _**“吃得苦中苦，方为人上人。”**_ - 谚语
+> _**生命短暂。热情地生活。**_ - 佚名
 
 #### Places where you can contact me
 
