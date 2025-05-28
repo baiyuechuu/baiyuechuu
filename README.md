@@ -1,6 +1,6 @@
 # <p>Hi, I'm Baiyue Chu <img src="./wave.png" width="55" height="55"></p>
 
-> _**“千里之行，始于足下。”**_ - 老子
+> _**时间会告诉我们，简单的喜欢最长远。**_ - 佚名
 
 #### Places where you can contact me
 
