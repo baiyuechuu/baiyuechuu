@@ -1,6 +1,6 @@
 # <p>Hi, I'm Baiyue Chu <img src="./wave.png" width="55" height="55"></p>
 
-> _**“真理是时间的女儿，而不是权威的女儿。”**_ - 哥白尼
+> _**学历代表过去，学习能力才代表将来。**_ - 古谚
 
 #### Places where you can contact me
 
