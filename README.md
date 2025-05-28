@@ -1,6 +1,6 @@
 # <p>Hi, I'm Baiyue Chu <img src="./wave.png" width="55" height="55"></p>
 
-> _**把时间用在进步上，生活也会蒸蒸日上。**_ - 古谚
+> _**“失败乃成功之母。”**_ - 陈天华
 
 #### Places where you can contact me
 
