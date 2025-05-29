@@ -1,6 +1,6 @@
 # <p>Hi, I'm Baiyue Chu <img src="./wave.png" width="55" height="55"></p>
 
-> _**“沉默是金。”**_ - 谚语
+> _**“从善如登，从恶如崩。”**_ - 《左传》
 
 #### Places where you can contact me
 
