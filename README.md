@@ -1,6 +1,6 @@
 # <p>Hi, I'm Baiyue Chu <img src="./wave.png" width="55" height="55"></p>
 
-> _**感谢遇见，感谢陪伴。**_ - 佚名
+> _**“天生我材必有用，千金散尽还复来。”**_ - 李白
 
 #### Places where you can contact me
 
