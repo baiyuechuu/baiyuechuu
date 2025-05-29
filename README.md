@@ -1,6 +1,6 @@
 # <p>Hi, I'm Baiyue Chu <img src="./wave.png" width="55" height="55"></p>
 
-> _**“人无远虑，必有近忧。”**_ - 孔子
+> _**“举头望明月，低头思故乡。”**_ - 李白
 
 #### Places where you can contact me
 
