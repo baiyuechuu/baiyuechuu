@@ -1,6 +1,6 @@
 # <p>Hi, I'm Baiyue Chu <img src="./wave.png" width="55" height="55"></p>
 
-> _**“问君能有几多愁，恰似一江春水向东流。”**_ - 李清照
+> _**“人无远虑，必有近忧。”**_ - 孔子
 
 #### Places where you can contact me
 
