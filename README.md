@@ -1,6 +1,6 @@
 # <p>Hi, I'm Baiyue Chu <img src="./wave.png" width="55" height="55"></p>
 
-> _**“满招损，谦受益。”**_ - 《尚书》
+> _**你若不坚强，没人替你勇敢。**_ - 佚名
 
 #### Places where you can contact me
 
