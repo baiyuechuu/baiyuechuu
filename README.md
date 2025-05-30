@@ -1,6 +1,6 @@
 # <p>Hi, I'm Baiyue Chu <img src="./wave.png" width="55" height="55"></p>
 
-> _**“天生我材必有用，千金散尽还复来。”**_ - 李白
+> _**把时间用在进步上，生活也会蒸蒸日上。**_ - 古谚
 
 #### Places where you can contact me
 
