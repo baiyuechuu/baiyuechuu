@@ -1,6 +1,6 @@
 # <p>Hi, I'm Baiyue Chu <img src="./wave.png" width="55" height="55"></p>
 
-> _**“天高地迥，觉宇宙之无穷；兴尽悲来，识盈虚之有数。”**_ - 鲁迅
+> _**“二十年后，我定会回来。”**_ - 朱自清
 
 #### Places where you can contact me
 
