@@ -1,6 +1,6 @@
 # <p>Hi, I'm Baiyue Chu <img src="./wave.png" width="55" height="55"></p>
 
-> _**“时间如水，时间如金，时间不等人。”**_ - 古人
+> _**你笑，全世界都跟着你笑；你哭，全世界只有你一个人哭。**_ - 佚名
 
 #### Places where you can contact me
 
