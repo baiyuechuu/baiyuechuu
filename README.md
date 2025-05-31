@@ -1,6 +1,6 @@
 # <p>Hi, I'm Baiyue Chu <img src="./wave.png" width="55" height="55"></p>
 
-> _**“天高地远，黄河之水天上来。”**_ - 李白
+> _**“脚踏实地，志存高远。”**_ - 古人
 
 #### Places where you can contact me
 
