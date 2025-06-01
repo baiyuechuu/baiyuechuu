@@ -1,6 +1,6 @@
 # <p>Hi, I'm Baiyue Chu <img src="./wave.png" width="55" height="55"></p>
 
-> _**生活不是用来妥协的。**_ - 佚名
+> _**“失败乃成功之母。”**_ - 陈天华
 
 #### Places where you can contact me
 
