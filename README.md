@@ -1,6 +1,6 @@
 # <p>Hi, I'm Baiyue Chu <img src="./wave.png" width="55" height="55"></p>
 
-> _**“世间事常难遂人愿，且看明朝何处。”**_ - 李清照
+> _**“风雨之后，见彩虹。”**_ - 古谚语
 
 #### Places where you can contact me
 
