@@ -1,6 +1,6 @@
 # <p>Hi, I'm Baiyue Chu <img src="./wave.png" width="55" height="55"></p>
 
-> _**“满招损，谦受益。”**_ - 《尚书》
+> _**“老吾老以及人之老，幼吾幼以及人之幼。”**_ - 孟子
 
 #### Places where you can contact me
 
