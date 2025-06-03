@@ -1,6 +1,6 @@
 # <p>Hi, I'm Baiyue Chu <img src="./wave.png" width="55" height="55"></p>
 
-> _**“失败乃成功之母。”**_ - 陈天华
+> _**“不经一事，不长一智。”**_ - 古人
 
 #### Places where you can contact me
 
