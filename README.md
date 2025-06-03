@@ -1,6 +1,6 @@
 # <p>Hi, I'm Baiyue Chu <img src="./wave.png" width="55" height="55"></p>
 
-> _**星星发光，是为了让每个人找到属于自己的星星。**_ - 古谚
+> _**“失败乃成功之母。”**_ - 陈天华
 
 #### Places where you can contact me
 
