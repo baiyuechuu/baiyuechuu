@@ -1,6 +1,6 @@
 # <p>Hi, I'm Baiyue Chu <img src="./wave.png" width="55" height="55"></p>
 
-> _**“不怕慢，就怕站。”**_ - 唐代民间谚语
+> _**“人是做出来的，不是天生的。”**_ - 爱迪生
 
 #### Places where you can contact me
 
