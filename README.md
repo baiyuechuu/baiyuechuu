@@ -1,6 +1,6 @@
 # <p>Hi, I'm Baiyue Chu <img src="./wave.png" width="55" height="55"></p>
 
-> _**“真理是时间的女儿，而不是权威的女儿。”**_ - 哥白尼
+> _**“不怕慢，就怕站。”**_ - 唐代民间谚语
 
 #### Places where you can contact me
 
