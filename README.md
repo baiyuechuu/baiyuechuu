@@ -1,6 +1,6 @@
 # <p>Hi, I'm Baiyue Chu <img src="./wave.png" width="55" height="55"></p>
 
-> _**你可以拖延，但时间不会。**_ - 佚名
+> _**“花有重开日，人无再少年。”**_ - 唐代·刘禹锡
 
 #### Places where you can contact me
 
