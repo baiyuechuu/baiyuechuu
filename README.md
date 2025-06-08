@@ -1,6 +1,6 @@
 # <p>Hi, I'm Baiyue Chu <img src="./wave.png" width="55" height="55"></p>
 
-> _**生活就像一杯茶，不会苦一辈子，但总会苦一阵子。**_ - 佚名
+> _**“梅花香自苦寒来。”**_ - 唐代·王安石
 
 #### Places where you can contact me
 
