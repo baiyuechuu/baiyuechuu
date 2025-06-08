@@ -1,6 +1,6 @@
 # <p>Hi, I'm Baiyue Chu <img src="./wave.png" width="55" height="55"></p>
 
-> _**不怕慢，就怕站。**_ - 古谚
+> _**“谁言寸草心，报得三春晖。”**_ - 孟郊
 
 #### Places where you can contact me
 
