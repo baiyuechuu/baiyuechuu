@@ -5,8 +5,6 @@
 #### Places where you can contact me
 
 [![Discord](https://ziadoua.github.io/m3-Markdown-Badges/badges/Discord/discord2.svg)](https://discord.com/users/1276006640486715467)
-[![Reddit](https://ziadoua.github.io/m3-Markdown-Badges/badges/Reddit/reddit2.svg)](https://www.reddit.com/user/Bulky_Worth9352/)
-[![Telegram](https://ziadoua.github.io/m3-Markdown-Badges/badges/Telegram/telegram2.svg)](https://t.me/+Z9-5aUkpjSpiYmY1)
 [![My Portfolio](https://ziadoua.github.io/m3-Markdown-Badges/badges/MyPortfolio/myportfolio2.svg)](https://www.baiyuechu.dev/)
 
 #### Funding
@@ -19,17 +17,7 @@
 
 <div align="center">
 
-| Category              | Technologies                                                                                                           |
-| --------------------- | ---------------------------------------------------------------------------------------------------------------------- |
-| Frontend              | [![Frontend Skills](https://skillicons.dev/icons?i=html,css,scss,pug,react,tailwind,nextjs)](https://skillicons.dev)   |
-| Backend               | [![Backend Skills](https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase)](https://skillicons.dev)            |
-| Programming Languages | [![Programming Skills](https://skillicons.dev/icons?i=javascript,typescript,python,c,cpp,lua)](https://skillicons.dev) |
-| Mobile Development    | [![Mobile Skills](https://skillicons.dev/icons?i=flutter,dart)](https://skillicons.dev)                                |
-| Tools                 | [![Tools Skills](https://skillicons.dev/icons?i=docker,git,github,gitlab,vercel,postman,bun)](https://skillicons.dev)  |
-| OS & Environment      | [![OS Skills](https://skillicons.dev/icons?i=linux,arch,bash,ubuntu,windows)](https://skillicons.dev)                  |
-| IDE & Editors         | [![IDE Skills](https://skillicons.dev/icons?i=neovim,vim,vscode)](https://skillicons.dev)                              |
-| Design                | [![Design Skills](https://skillicons.dev/icons?i=figma,ps,ai)](https://skillicons.dev)                                 |
-| Others                | [![Other Skills](https://skillicons.dev/icons?i=qt,raspberrypi,tauri,cmake,latex,md,nginx)](https://skillicons.dev)    |
+[![Technical Skills](https://skillicons.dev/icons?i=html,css,scss,pug,react,tailwind,nextjs,nodejs,express,mongodb,firebase,javascript,typescript,python,c,cpp,lua,flutter,dart,docker,git,github,gitlab,vercel,postman,bun,linux,arch,bash,ubuntu,windows,neovim,vim,vscode,figma,ps,ai,qt,raspberrypi,tauri,cmake,latex,md,nginx)](https://skillicons.dev)
 
 </div>
 
