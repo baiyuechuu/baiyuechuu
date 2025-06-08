@@ -1,6 +1,6 @@
 # <p>Hi, I'm Baiyue Chu <img src="./wave.png" width="55" height="55"></p>
 
-> _**你笑，全世界都跟着你笑；你哭，全世界只有你一个人哭。**_ - 佚名
+> _**“采得百花成蜜后，为谁辛苦为谁甜。”**_ - 唐代·罗隐
 
 #### Places where you can contact me
 
