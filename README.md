@@ -1,6 +1,6 @@
 # <p>Hi, I'm Baiyue Chu <img src="./wave.png" width="55" height="55"></p>
 
-> _**“谁言寸草心，报得三春晖。”**_ - 孟郊
+> _**“无可奈何花落去，似曾相识燕归来。”**_ - 李清照
 
 #### Places where you can contact me
 
