@@ -1,6 +1,6 @@
 # <p>Hi, I'm Baiyue Chu <img src="./wave.png" width="55" height="55"></p>
 
-> _**“贫贱不能移，富贵不能淫，威武不能屈。”**_ - 孟子
+> _**“待到山花烂漫时，她在丛中笑。”**_ - 唐代·白居易
 
 #### Places where you can contact me
 
