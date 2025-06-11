@@ -1,6 +1,6 @@
 # <p>Hi, I'm Baiyue Chu <img src="./wave.png" width="55" height="55"></p>
 
-> _**“万事开头难。”**_ - 古人
+> _**你不努力，谁也给不了你想要的生活。**_ - 佚名
 
 #### Places where you can contact me
 
