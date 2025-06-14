@@ -1,6 +1,6 @@
 # <p>Hi, I'm Baiyue Chu <img src="./wave.png" width="55" height="55"></p>
 
-> _**“钟鼓馔玉不足贵，但愿长醉不复醒。”**_ - 李白
+> _**“我劝天公重抖擞，不拘一格降人才。”**_ - 毛泽东
 
 #### Places where you can contact me
 
