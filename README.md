@@ -1,6 +1,6 @@
 # <p>Hi, I'm Baiyue Chu <img src="./wave.png" width="55" height="55"></p>
 
-> _**“车到山前必有路，船到桥头自然直。”**_ - 谚语
+> _**“梅花香自苦寒来。”**_ - 唐代·王安石
 
 #### Places where you can contact me
 
