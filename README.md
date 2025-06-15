@@ -1,6 +1,6 @@
 # <p>Hi, I'm Baiyue Chu <img src="./wave.png" width="55" height="55"></p>
 
-> _**“花有重开日，人无再少年。”**_ - 唐代·刘禹锡
+> _**“酒逢知己千杯少，话不投机半句多。”**_ - 唐代·白居易
 
 #### Places where you can contact me
 
