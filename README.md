@@ -1,6 +1,6 @@
 # <p>Hi, I'm Baiyue Chu <img src="./wave.png" width="55" height="55"></p>
 
-> _**“酒逢知己千杯少，话不投机半句多。”**_ - 唐代·白居易
+> _**“衣带渐宽终不悔，为伊消得人憔悴。”**_ - 柳永
 
 #### Places where you can contact me
 
