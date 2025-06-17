@@ -1,6 +1,6 @@
 # <p>Hi, I'm Baiyue Chu <img src="./wave.png" width="55" height="55"></p>
 
-> _**“我劝天公重抖擞，不拘一格降人才。”**_ - 毛泽东
+> _**“千里之行，始于足下。”**_ - 老子
 
 #### Places where you can contact me
 
