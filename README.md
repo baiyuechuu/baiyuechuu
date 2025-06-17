@@ -1,6 +1,6 @@
 # <p>Hi, I'm Baiyue Chu <img src="./wave.png" width="55" height="55"></p>
 
-> _**“行百里者半九十。”**_ - 《战国策》
+> _**“有些人，只有在失去后才会懂得珍惜。”**_ - 鲁迅
 
 #### Places where you can contact me
 
