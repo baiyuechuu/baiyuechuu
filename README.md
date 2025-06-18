@@ -1,6 +1,6 @@
 # <p>Hi, I'm Baiyue Chu <img src="./wave.png" width="55" height="55"></p>
 
-> _**“得其大者，可以兼其小者。”**_ - 孔子
+> _**“晚风拂柳笛声残，夕阳山外山。”**_ - 王之涣
 
 #### Places where you can contact me
 
