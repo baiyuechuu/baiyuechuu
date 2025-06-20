@@ -1,6 +1,6 @@
 # <p>Hi, I'm Baiyue Chu <img src="./wave.png" width="55" height="55"></p>
 
-> _**“行走江湖，身上背的不只是刀剑。”**_ - 金庸
+> _**你若不离不弃，我必生死相依。**_ - 佚名
 
 #### Places where you can contact me
 
