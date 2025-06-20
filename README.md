@@ -1,6 +1,6 @@
 # <p>Hi, I'm Baiyue Chu <img src="./wave.png" width="55" height="55"></p>
 
-> _**“古之学者为己，今之学者为人。”**_ - 唐代·韩愈
+> _**“行走江湖，身上背的不只是刀剑。”**_ - 金庸
 
 #### Places where you can contact me
 
