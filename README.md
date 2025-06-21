@@ -1,6 +1,6 @@
 # <p>Hi, I'm Baiyue Chu <img src="./wave.png" width="55" height="55"></p>
 
-> _**“若要人不知，除非己莫为。”**_ - 《大元大一统志》
+> _**“世事一场大梦，人生几度秋凉。”**_ - 苏轼
 
 #### Places where you can contact me
 
