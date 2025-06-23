@@ -1,6 +1,6 @@
 # <p>Hi, I'm Baiyue Chu <img src="./wave.png" width="55" height="55"></p>
 
-> _**“少年强则国强，少年智则国智。”**_ - 毛泽东
+> _**“人是做出来的，不是天生的。”**_ - 爱迪生
 
 #### Places where you can contact me
 
