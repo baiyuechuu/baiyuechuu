@@ -1,6 +1,6 @@
 # <p>Hi, I'm Baiyue Chu <img src="./wave.png" width="55" height="55"></p>
 
-> _**“世上无难事，只怕有心人。”**_ - 陈寿
+> _**“欲穷千里目，更上一层楼。”**_ - 王之涣
 
 #### Places where you can contact me
 
