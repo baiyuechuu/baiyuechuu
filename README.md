@@ -1,6 +1,6 @@
 # <p>Hi, I'm Baiyue Chu <img src="./wave.png" width="55" height="55"></p>
 
-> _**世界上最遥远的距离，是鱼与飞鸟的距离。**_ - 张小娴
+> _**“路漫漫其修远兮，吾将上下而求索。”**_ - 屈原
 
 #### Places where you can contact me
 
