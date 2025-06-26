@@ -1,6 +1,6 @@
 # <p>Hi, I'm Baiyue Chu <img src="./wave.png" width="55" height="55"></p>
 
-> _**“地藏菩萨不离佛前一炷香，人生如梦。”**_ - 释迦牟尼
+> _**“学而不思则罔，思而不学则殆。”**_ - 孔子
 
 #### Places where you can contact me
 
