@@ -1,6 +1,6 @@
 # <p>Hi, I'm Baiyue Chu <img src="./wave.png" width="55" height="55"></p>
 
-> _**“学而不思则罔，思而不学则殆。”**_ - 孔子
+> _**“大漠孤烟直，长河落日圆。”**_ - 王维
 
 #### Places where you can contact me
 
