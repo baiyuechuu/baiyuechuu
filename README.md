@@ -1,6 +1,6 @@
 # <p>Hi, I'm Baiyue Chu <img src="./wave.png" width="55" height="55"></p>
 
-> _**不怕慢，就怕站。**_ - 古谚
+> _**“不经一事，不长一智。”**_ - 古人
 
 #### Places where you can contact me
 
