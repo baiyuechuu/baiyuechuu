@@ -1,6 +1,6 @@
 # <p>Hi, I'm Baiyue Chu <img src="./wave.png" width="55" height="55"></p>
 
-> _**“不经一事，不长一智。”**_ - 古人
+> _**“天命自有时，事在人为。”**_ - 曹操
 
 #### Places where you can contact me
 
