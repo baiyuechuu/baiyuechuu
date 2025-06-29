@@ -1,6 +1,6 @@
 # <p>Hi, I'm Baiyue Chu <img src="./wave.png" width="55" height="55"></p>
 
-> _**“好习惯是成功的基石。”**_ - 孔子
+> _**“滴水穿石，绳锯木断。”**_ - 古人
 
 #### Places where you can contact me
 
