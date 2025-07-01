@@ -1,6 +1,6 @@
 # <p>Hi, I'm Baiyue Chu <img src="./wave.png" width="55" height="55"></p>
 
-> _**“上善若水，水善利万物而不争。”**_ - 老子
+> _**尝试才有成长，坚持才有奇迹。**_ - 古谚
 
 #### Places where you can contact me
 
