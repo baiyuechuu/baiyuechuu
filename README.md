@@ -1,6 +1,6 @@
 # <p>Hi, I'm Baiyue Chu <img src="./wave.png" width="55" height="55"></p>
 
-> _**尝试才有成长，坚持才有奇迹。**_ - 古谚
+> _**“非学无以广才，非志无以成学。”**_ - 诸葛亮
 
 #### Places where you can contact me
 
