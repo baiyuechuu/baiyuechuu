@@ -1,6 +1,6 @@
 # <p>Hi, I'm Baiyue Chu <img src="./wave.png" width="55" height="55"></p>
 
-> _**心有多大，舞台就有多大。**_ - 佚名
+> _**“天行健，君子以自强不息。”**_ - 《易经》
 
 #### Places where you can contact me
 
