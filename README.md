@@ -1,6 +1,6 @@
 # <p>Hi, I'm Baiyue Chu <img src="./wave.png" width="55" height="55"></p>
 
-> _**“逆境是成功的阶梯。”**_ - 鲁迅
+> _**“晚风拂柳笛声残，夕阳山外山。”**_ - 王之涣
 
 #### Places where you can contact me
 
