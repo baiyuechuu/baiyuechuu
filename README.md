@@ -1,6 +1,6 @@
 # <p>Hi, I'm Baiyue Chu <img src="./wave.png" width="55" height="55"></p>
 
-> _**生活就像一杯水，冷暖自知。**_ - 佚名
+> _**“逆境是成功的阶梯。”**_ - 鲁迅
 
 #### Places where you can contact me
 
