@@ -1,6 +1,6 @@
 # <p>Hi, I'm Baiyue Chu <img src="./wave.png" width="55" height="55"></p>
 
-> _**“有些人，只有在失去后才会懂得珍惜。”**_ - 鲁迅
+> _**“天命自有时，事在人为。”**_ - 曹操
 
 #### Places where you can contact me
 
