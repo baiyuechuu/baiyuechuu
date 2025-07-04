@@ -1,6 +1,6 @@
 # <p>Hi, I'm Baiyue Chu <img src="./wave.png" width="55" height="55"></p>
 
-> _**“读书使人进步，实践使人更强。”**_ - 毛泽东
+> _**“世间事常难遂人愿，且看明朝何处。”**_ - 李清照
 
 #### Places where you can contact me
 
