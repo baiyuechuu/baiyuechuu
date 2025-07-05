@@ -1,6 +1,6 @@
 # <p>Hi, I'm Baiyue Chu <img src="./wave.png" width="55" height="55"></p>
 
-> _**“白日依山尽，黄河入海流。”**_ - 王之涣
+> _**“衣带渐宽终不悔，为伊消得人憔悴。”**_ - 柳永
 
 #### Places where you can contact me
 
