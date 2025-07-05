@@ -1,6 +1,6 @@
 # <p>Hi, I'm Baiyue Chu <img src="./wave.png" width="55" height="55"></p>
 
-> _**“若要人不知，除非己莫为。”**_ - 《大元大一统志》
+> _**只要站起来的次数比倒下去的次数多，那就是成功。**_ - 古谚
 
 #### Places where you can contact me
 
