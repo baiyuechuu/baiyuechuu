@@ -1,6 +1,6 @@
 # <p>Hi, I'm Baiyue Chu <img src="./wave.png" width="55" height="55"></p>
 
-> _**“三人行，必有我师焉。”**_ - 孔子
+> _**“自古英雄出少年。”**_ - 杨洪基
 
 #### Places where you can contact me
 
