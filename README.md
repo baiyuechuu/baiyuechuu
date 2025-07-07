@@ -1,6 +1,6 @@
 # <p>Hi, I'm Baiyue Chu <img src="./wave.png" width="55" height="55"></p>
 
-> _**“道阻且长，行则将至。”**_ - 《史记》
+> _**“风雨之后，见彩虹。”**_ - 古人
 
 #### Places where you can contact me
 
