@@ -1,6 +1,6 @@
 # <p>Hi, I'm Baiyue Chu <img src="./wave.png" width="55" height="55"></p>
 
-> _**时间会告诉我们，简单的喜欢最长远。**_ - 佚名
+> _**没有碰巧的成功，也没有白费的努力。**_ - 古谚
 
 #### Places where you can contact me
 
