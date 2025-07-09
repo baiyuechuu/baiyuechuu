@@ -1,6 +1,6 @@
 # <p>Hi, I'm Baiyue Chu <img src="./wave.png" width="55" height="55"></p>
 
-> _**没有碰巧的成功，也没有白费的努力。**_ - 古谚
+> _**别让昨天的泪水，弄湿了今天的阳光。**_ - 佚名
 
 #### Places where you can contact me
 
