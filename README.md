@@ -1,6 +1,6 @@
 # <p>Hi, I'm Baiyue Chu <img src="./wave.png" width="55" height="55"></p>
 
-> _**生活不是等待暴风雨过去，而是学会在雨中跳舞。**_ - 佚名
+> _**“志当存高远。”**_ - 诸葛亮
 
 #### Places where you can contact me
 
