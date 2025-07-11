@@ -1,6 +1,6 @@
 # <p>Hi, I'm Baiyue Chu <img src="./wave.png" width="55" height="55"></p>
 
-> _**“若要人不知，除非己莫为。”**_ - 《大元大一统志》
+> _**星星发光，是为了让每个人找到属于自己的星星。**_ - 古谚
 
 #### Places where you can contact me
 
