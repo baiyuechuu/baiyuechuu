@@ -1,6 +1,6 @@
 # <p>Hi, I'm Baiyue Chu <img src="./wave.png" width="55" height="55"></p>
 
-> _**“吃得苦中苦，方为人上人。”**_ - 谚语
+> _**“谁言寸草心，报得三春晖。”**_ - 孟郊
 
 #### Places where you can contact me
 
