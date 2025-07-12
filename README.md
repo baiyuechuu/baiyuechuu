@@ -1,6 +1,6 @@
 # <p>Hi, I'm Baiyue Chu <img src="./wave.png" width="55" height="55"></p>
 
-> _**不怕慢，就怕站。**_ - 古谚
+> _**不要因为走得太远，忘了我们为什么出发。**_ - 佚名
 
 #### Places where you can contact me
 
