@@ -1,6 +1,6 @@
 # <p>Hi, I'm Baiyue Chu <img src="./wave.png" width="55" height="55"></p>
 
-> _**“平生不会相思，才会相思，便害相思。”**_ - 李清照
+> _**“采菊东篱下，悠然见南山。”**_ - 陶渊明
 
 #### Places where you can contact me
 
