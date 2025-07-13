@@ -1,6 +1,6 @@
 # <p>Hi, I'm Baiyue Chu <img src="./wave.png" width="55" height="55"></p>
 
-> _**“采菊东篱下，悠然见南山。”**_ - 陶渊明
+> _**“滴水穿石，绳锯木断。”**_ - 古人
 
 #### Places where you can contact me
 
