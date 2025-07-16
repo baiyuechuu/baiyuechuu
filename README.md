@@ -1,6 +1,6 @@
 # <p>Hi, I'm Baiyue Chu <img src="./wave.png" width="55" height="55"></p>
 
-> _**“爱人者，人恒爱之；敬人者，人恒敬之。”**_ - 孟子
+> _**“天才就是百分之一的灵感，加上百分之九十九的汗水。”**_ - 爱迪生
 
 #### Places where you can contact me
 
