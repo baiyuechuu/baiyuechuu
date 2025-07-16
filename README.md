@@ -1,6 +1,6 @@
 # <p>Hi, I'm Baiyue Chu <img src="./wave.png" width="55" height="55"></p>
 
-> _**“天才就是百分之一的灵感，加上百分之九十九的汗水。”**_ - 爱迪生
+> _**你若想得到这世界最好的东西，先让世界看到最好的你。**_ - 佚名
 
 #### Places where you can contact me
 
