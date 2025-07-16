@@ -1,6 +1,6 @@
 # <p>Hi, I'm Baiyue Chu <img src="./wave.png" width="55" height="55"></p>
 
-> _**“平生不会相思，才会相思，便害相思。”**_ - 李清照
+> _**生活不是用来妥协的。**_ - 佚名
 
 #### Places where you can contact me
 
