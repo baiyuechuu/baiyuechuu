@@ -1,6 +1,6 @@
 # <p>Hi, I'm Baiyue Chu <img src="./wave.png" width="55" height="55"></p>
 
-> _**不要轻易说爱，许下的诺言就是欠下的债。**_ - 佚名
+> _**尝试才有成长，坚持才有奇迹。**_ - 古谚
 
 #### Places where you can contact me
 
