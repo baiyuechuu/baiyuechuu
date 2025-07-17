@@ -1,6 +1,6 @@
 # <p>Hi, I'm Baiyue Chu <img src="./wave.png" width="55" height="55"></p>
 
-> _**“欲穷千里目，更上一层楼。”**_ - 王之涣
+> _**只要站起来的次数比倒下去的次数多，那就是成功。**_ - 古谚
 
 #### Places where you can contact me
 
