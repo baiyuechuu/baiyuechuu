@@ -1,6 +1,6 @@
 # <p>Hi, I'm Baiyue Chu <img src="./wave.png" width="55" height="55"></p>
 
-> _**“长风破浪会有时，直挂云帆济沧海。”**_ - 李白
+> _**“人活在世上，既然有了责任，就要尽全力去承担。”**_ - 鲁迅
 
 #### Places where you can contact me
 
