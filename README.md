@@ -1,6 +1,6 @@
 # <p>Hi, I'm Baiyue Chu <img src="./wave.png" width="55" height="55"></p>
 
-> _**你若不想做，会找到一个借口；你若想做，会找到一个方法。**_ - 古谚
+> _**“行走江湖，身上背的不只是刀剑。”**_ - 金庸
 
 #### Places where you can contact me
 
