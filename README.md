@@ -1,6 +1,6 @@
 # <p>Hi, I'm Baiyue Chu <img src="./wave.png" width="55" height="55"></p>
 
-> _**“人活在世上，既然有了责任，就要尽全力去承担。”**_ - 鲁迅
+> _**“死生契阔，与子成说。”**_ - 佚名
 
 #### Places where you can contact me
 
