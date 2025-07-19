@@ -1,6 +1,6 @@
 # <p>Hi, I'm Baiyue Chu <img src="./wave.png" width="55" height="55"></p>
 
-> _**“好习惯是成功的基石。”**_ - 孔子
+> _**感谢遇见，感谢陪伴。**_ - 佚名
 
 #### Places where you can contact me
 
