@@ -1,6 +1,6 @@
 # <p>Hi, I'm Baiyue Chu <img src="./wave.png" width="55" height="55"></p>
 
-> _**“静以修身，俭以养德。”**_ - 诸葛亮
+> _**“春眠不觉晓，处处闻啼鸟。”**_ - 孟浩然
 
 #### Places where you can contact me
 
