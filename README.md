@@ -1,6 +1,6 @@
 # <p>Hi, I'm Baiyue Chu <img src="./wave.png" width="55" height="55"></p>
 
-> _**“春眠不觉晓，处处闻啼鸟。”**_ - 孟浩然
+> _**对未来最好的准备就是：今天做的最好。**_ - 古谚
 
 #### Places where you can contact me
 
