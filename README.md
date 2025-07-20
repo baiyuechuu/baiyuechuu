@@ -1,6 +1,6 @@
 # <p>Hi, I'm Baiyue Chu <img src="./wave.png" width="55" height="55"></p>
 
-> _**“自古英雄出少年。”**_ - 杨洪基
+> _**“海内存知己，天涯若比邻。”**_ - 王勃
 
 #### Places where you can contact me
 
