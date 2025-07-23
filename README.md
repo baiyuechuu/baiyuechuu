@@ -1,6 +1,6 @@
 # <p>Hi, I'm Baiyue Chu <img src="./wave.png" width="55" height="55"></p>
 
-> _**“千淘万漉虽辛苦，吹尽狂沙始到金。”**_ - 唐代·刘禹锡
+> _**尝试才有成长，坚持才有奇迹。**_ - 古谚
 
 #### Places where you can contact me
 
