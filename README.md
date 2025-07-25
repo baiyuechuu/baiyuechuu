@@ -1,6 +1,6 @@
 # <p>Hi, I'm Baiyue Chu <img src="./wave.png" width="55" height="55"></p>
 
-> _**“天高地远，黄河之水天上来。”**_ - 李白
+> _**你不勇敢，没人替你坚强。**_ - 佚名
 
 #### Places where you can contact me
 
