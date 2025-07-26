@@ -1,6 +1,6 @@
 # <p>Hi, I'm Baiyue Chu <img src="./wave.png" width="55" height="55"></p>
 
-> _**“脚踏实地，志存高远。”**_ - 古人
+> _**生活就像一杯茶，不会苦一辈子，但总会苦一阵子。**_ - 佚名
 
 #### Places where you can contact me
 
