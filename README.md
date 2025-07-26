@@ -1,6 +1,6 @@
 # <p>Hi, I'm Baiyue Chu <img src="./wave.png" width="55" height="55"></p>
 
-> _**你若盛开，蝴蝶自来。**_ - 林清玄
+> _**“春眠不觉晓，处处闻啼鸟。”**_ - 孟浩然
 
 #### Places where you can contact me
 
