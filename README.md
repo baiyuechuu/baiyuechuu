@@ -1,6 +1,6 @@
 # <p>Hi, I'm Baiyue Chu <img src="./wave.png" width="55" height="55"></p>
 
-> _**“春眠不觉晓，处处闻啼鸟。”**_ - 孟浩然
+> _**“二十年后，我定会回来。”**_ - 朱自清
 
 #### Places where you can contact me
 
