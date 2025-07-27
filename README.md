@@ -1,6 +1,6 @@
 # <p>Hi, I'm Baiyue Chu <img src="./wave.png" width="55" height="55"></p>
 
-> _**“天才是百分之一的灵感，加上百分之九十九的汗水。”**_ - 爱迪生
+> _**“万事开头难。”**_ - 古人
 
 #### Places where you can contact me
 
