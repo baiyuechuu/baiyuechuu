@@ -1,6 +1,6 @@
 # <p>Hi, I'm Baiyue Chu <img src="./wave.png" width="55" height="55"></p>
 
-> _**“世间事常难遂人愿，且看明朝何处。”**_ - 李清照
+> _**“得意忘形，失意忘言。”**_ - 古人
 
 #### Places where you can contact me
 
