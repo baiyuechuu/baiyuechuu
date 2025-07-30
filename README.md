@@ -1,6 +1,6 @@
 # <p>Hi, I'm Baiyue Chu <img src="./wave.png" width="55" height="55"></p>
 
-> _**“时间如水，时间如金，时间不等人。”**_ - 古人
+> _**“一寸光阴一寸金，寸金难买寸光阴。”**_ - 古人
 
 #### Places where you can contact me
 
