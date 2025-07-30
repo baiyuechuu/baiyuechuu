@@ -1,6 +1,6 @@
 # <p>Hi, I'm Baiyue Chu <img src="./wave.png" width="55" height="55"></p>
 
-> _**“水能载舟，亦能覆舟。”**_ - 《左传》
+> _**你无法叫醒一个装睡的人。**_ - 佚名
 
 #### Places where you can contact me
 
