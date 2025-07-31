@@ -1,6 +1,6 @@
 # <p>Hi, I'm Baiyue Chu <img src="./wave.png" width="55" height="55"></p>
 
-> _**“士为知己者死，女为悦己者容。”**_ - 《左传》
+> _**“天高地远，黄河之水天上来。”**_ - 李白
 
 #### Places where you can contact me
 
