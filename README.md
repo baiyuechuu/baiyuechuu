@@ -1,6 +1,6 @@
 # <p>Hi, I'm Baiyue Chu <img src="./wave.png" width="55" height="55"></p>
 
-> _**“读书破万卷，下笔如有神。”**_ - 杜甫
+> _**“有一种美，叫做放弃。”**_ - 金庸
 
 #### Places where you can contact me
 
