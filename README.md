@@ -1,6 +1,6 @@
 # <p>Hi, I'm Baiyue Chu <img src="./wave.png" width="55" height="55"></p>
 
-> _**“思君不见下渝州，空忆夜月。”**_ - 王昌龄
+> _**“老吾老以及人之老，幼吾幼以及人之幼。”**_ - 孔子
 
 #### Places where you can contact me
 
