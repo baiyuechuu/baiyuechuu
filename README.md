@@ -1,6 +1,6 @@
 # <p>Hi, I'm Baiyue Chu <img src="./wave.png" width="55" height="55"></p>
 
-> _**“不以物喜，不以己悲。”**_ - 苏轼
+> _**“过而不改，是为过矣。”**_ - 孔子
 
 #### Places where you can contact me
 
