@@ -1,6 +1,6 @@
 # <p>Hi, I'm Baiyue Chu <img src="./wave.png" width="55" height="55"></p>
 
-> _**“行远自迩，登高自卑。”**_ - 老子
+> _**“此情可待成追忆，只是当时已惘然。”**_ - 李商隐
 
 #### Places where you can contact me
 
