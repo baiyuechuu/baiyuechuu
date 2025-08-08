@@ -1,6 +1,6 @@
 # <p>Hi, I'm Baiyue Chu <img src="./wave.png" width="55" height="55"></p>
 
-> _**每一次努力，都是幸运的伏笔。**_ - 佚名
+> _**“留得青山在，不怕没柴烧。”**_ - 古人
 
 #### Places where you can contact me
 
