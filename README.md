@@ -1,6 +1,6 @@
 # <p>Hi, I'm Baiyue Chu <img src="./wave.png" width="55" height="55"></p>
 
-> _**“非学无以广才，非志无以成学。”**_ - 诸葛亮
+> _**“宁可枝头抱香死，何曾吹落北风中。”**_ - 林黛玉
 
 #### Places where you can contact me
 
