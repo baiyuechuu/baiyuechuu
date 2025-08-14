@@ -1,6 +1,6 @@
 # <p>Hi, I'm Baiyue Chu <img src="./wave.png" width="55" height="55"></p>
 
-> _**“路漫漫其修远兮，吾将上下而求索。”**_ - 屈原
+> _**“滴水穿石，绳锯木断。”**_ - 古人
 
 #### Places where you can contact me
 
