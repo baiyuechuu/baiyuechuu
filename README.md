@@ -1,6 +1,6 @@
 # <p>Hi, I'm Baiyue Chu <img src="./wave.png" width="55" height="55"></p>
 
-> _**“天高地迥，觉宇宙之无穷；兴尽悲来，识盈虚之有数。”**_ - 苏轼
+> _**“回头是岸。”**_ - 佛教
 
 #### Places where you can contact me
 
