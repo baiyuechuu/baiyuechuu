@@ -1,6 +1,6 @@
 # <p>Hi, I'm Baiyue Chu <img src="./wave.png" width="55" height="55"></p>
 
-> _**世界上最遥远的距离，是鱼与飞鸟的距离。**_ - 张小娴
+> _**“读书破万卷，下笔如有神。”**_ - 杜甫
 
 #### Places where you can contact me
 
