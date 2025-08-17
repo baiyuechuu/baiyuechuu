@@ -1,6 +1,6 @@
 # <p>Hi, I'm Baiyue Chu <img src="./wave.png" width="55" height="55"></p>
 
-> _**“为人性僻耽佳句，语不惊人死不休。”**_ - 唐代·李贺
+> _**你若想得到这世界最好的东西，先让世界看到最好的你。**_ - 佚名
 
 #### Places where you can contact me
 
