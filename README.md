@@ -1,6 +1,6 @@
 # <p>Hi, I'm Baiyue Chu <img src="./wave.png" width="55" height="55"></p>
 
-> _**“书到用时方恨少，事非经过不知难。”**_ - 陆游
+> _**星星发光，是为了让每个人找到属于自己的星星。**_ - 古谚
 
 #### Places where you can contact me
 
