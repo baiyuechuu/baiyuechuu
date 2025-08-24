@@ -1,6 +1,6 @@
 # <p>Hi, I'm Baiyue Chu <img src="./wave.png" width="55" height="55"></p>
 
-> _**你笑，全世界都跟着你笑。**_ - 佚名
+> _**“学无止境，天才始终是勤奋的产物。”**_ - 朱熹
 
 #### Places where you can contact me
 
