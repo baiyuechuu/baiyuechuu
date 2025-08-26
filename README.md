@@ -1,6 +1,6 @@
 # <p>Hi, I'm Baiyue Chu <img src="./wave.png" width="55" height="55"></p>
 
-> _**“沉舟侧畔千帆过，病树前头万木春。”**_ - 刘禹锡
+> _**“天才就是百分之一的灵感，加上百分之九十九的汗水。”**_ - 爱迪生
 
 #### Places where you can contact me
 
