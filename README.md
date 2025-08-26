@@ -1,6 +1,6 @@
 # <p>Hi, I'm Baiyue Chu <img src="./wave.png" width="55" height="55"></p>
 
-> _**“书到用时方恨少，事非经过不知难。”**_ - 陆游
+> _**“自古英雄出少年。”**_ - 杨洪基
 
 #### Places where you can contact me
 
