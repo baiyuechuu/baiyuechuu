@@ -1,6 +1,6 @@
 # <p>Hi, I'm Baiyue Chu <img src="./wave.png" width="55" height="55"></p>
 
-> _**“从善如登，从恶如崩。”**_ - 《左传》
+> _**“书到用时方恨少，事非经过不知难。”**_ - 陆游
 
 #### Places where you can contact me
 
