@@ -1,6 +1,6 @@
 # <p>Hi, I'm Baiyue Chu <img src="./wave.png" width="55" height="55"></p>
 
-> _**生活不是用来妥协的。**_ - 佚名
+> _**“大漠孤烟直，长河落日圆。”**_ - 王维
 
 #### Places where you can contact me
 
