@@ -1,6 +1,6 @@
 # <p>Hi, I'm Baiyue Chu <img src="./wave.png" width="55" height="55"></p>
 
-> _**“举头望明月，低头思故乡。”**_ - 李白
+> _**“水能载舟，亦能覆舟。”**_ - 《左传》
 
 #### Places where you can contact me
 
