@@ -1,6 +1,6 @@
 # <p>Hi, I'm Baiyue Chu <img src="./wave.png" width="55" height="55"></p>
 
-> _**“水能载舟，亦能覆舟。”**_ - 《左传》
+> _**“喜怒不形于色。”**_ - 孔子
 
 #### Places where you can contact me
 
