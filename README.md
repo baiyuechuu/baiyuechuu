@@ -1,6 +1,6 @@
 # <p>Hi, I'm Baiyue Chu <img src="./wave.png" width="55" height="55"></p>
 
-> _**别让昨天的泪水，弄湿了今天的阳光。**_ - 佚名
+> _**“星星之火，可以燎原。”**_ - 毛泽东
 
 #### Places where you can contact me
 
