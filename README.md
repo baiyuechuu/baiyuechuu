@@ -1,6 +1,6 @@
 # <p>Hi, I'm Baiyue Chu <img src="./wave.png" width="55" height="55"></p>
 
-> _**有些事不是看到希望才去坚持，而是坚持了才会看到希望。**_ - 佚名
+> _**人生没有彩排，每一天都是现场直播。**_ - 佚名
 
 #### Places where you can contact me
 
