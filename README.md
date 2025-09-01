@@ -1,6 +1,6 @@
 # <p>Hi, I'm Baiyue Chu <img src="./wave.png" width="55" height="55"></p>
 
-> _**“千里之堤毁于蚁穴。”**_ - 古人
+> _**“路漫漫其修远兮，吾将上下而求索。”**_ - 屈原
 
 #### Places where you can contact me
 
