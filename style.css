@@ -361,3 +361,17 @@ a {
 	border-radius: 10px;
 	border: 1px dashed var(--border-color);
 }
+
+@media screen and (max-width: 768px) {
+	.skills-and-social-container {
+		flex-direction: column;
+		overflow-x: hidden;
+		overflow-y: auto;
+		scrollbar-width: none;
+		scroll-behavior: smooth;
+	}
+
+	.right-side-container {
+		width: 100%;
+	}
+}
