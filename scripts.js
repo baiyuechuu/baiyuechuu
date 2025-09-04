@@ -29,6 +29,44 @@ const fetchUserData = async () => {
 	return data;
 };
 
+// format data
+
+// {
+//   "login": "baiyuechuu",
+//   "id": 119971209,
+//   "node_id": "U_kgDOByadiQ",
+//   "avatar_url": "https://avatars.githubusercontent.com/u/119971209?v=4",
+//   "gravatar_id": "",
+//   "url": "https://api.github.com/users/baiyuechuu",
+//   "html_url": "https://github.com/baiyuechuu",
+//   "followers_url": "https://api.github.com/users/baiyuechuu/followers",
+//   "following_url": "https://api.github.com/users/baiyuechuu/following{/other_user}",
+//   "gists_url": "https://api.github.com/users/baiyuechuu/gists{/gist_id}",
+//   "starred_url": "https://api.github.com/users/baiyuechuu/starred{/owner}{/repo}",
+//   "subscriptions_url": "https://api.github.com/users/baiyuechuu/subscriptions",
+//   "organizations_url": "https://api.github.com/users/baiyuechuu/orgs",
+//   "repos_url": "https://api.github.com/users/baiyuechuu/repos",
+//   "events_url": "https://api.github.com/users/baiyuechuu/events{/privacy}",
+//   "received_events_url": "https://api.github.com/users/baiyuechuu/received_events",
+//   "type": "User",
+//   "user_view_type": "public",
+//   "site_admin": false,
+//   "name": "BaiYueChu",
+//   "company": null,
+//   "blog": "",
+//   "location": "Viet Nam",
+//   "email": null,
+//   "hireable": null,
+//   "bio": "\"落子無悔, 舉棋不回.\"",
+//   "twitter_username": null,
+//   "public_repos": 11,
+//   "public_gists": 0,
+//   "followers": 18,
+//   "following": 6,
+//   "created_at": "2022-12-06T19:33:52Z",
+//   "updated_at": "2025-08-29T05:08:53Z"
+// }
+
 const loadProfile = async () => {
 	const githubData = await fetchUserData();
 	console.log(githubData);
@@ -39,9 +77,24 @@ const loadProfile = async () => {
     <h2>${githubData.name}</h2>
     <span>@${githubData.login}</span>
     <p class="bio">${githubData.bio}</p>
-
   </div>
   `;
+
+	const ghDetails = document.querySelector(".gh-details");
+	ghDetails.innerHTML = `
+		<div class="stat-item">
+			<span class="stat-number">${githubData.public_repos}</span>
+			<span class="stat-label">Repositories</span>
+		</div>
+		<div class="stat-item">
+			<span class="stat-number">${githubData.followers}</span>
+			<span class="stat-label">Followers</span>
+		</div>
+		<div class="stat-item">
+			<span class="stat-number">${githubData.following}</span>
+			<span class="stat-label">Following</span>
+		</div>
+	`;
 };
 
 loadProfile();
