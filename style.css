@@ -42,12 +42,12 @@ body {
 	height: 100vh;
 	background-color: var(--bg-color);
 	position: relative;
+	padding: 1rem;
 }
 
-.card {
-	width: 90vw;
-	height: 90vh;
+.profile-card {
 	border-radius: 20px;
+	height: 100%;
 	background-color: var(--card-bg);
 	border: 1px dashed var(--border-color);
 	box-shadow: var(--shadow);
@@ -56,8 +56,8 @@ body {
 	z-index: 11;
 }
 
-.theme-toggle {
-	position: fixed;
+.dark-mode-toggle {
+	position: absolute;
 	top: 0.5rem;
 	right: 0.5rem;
 	padding: 0.5rem;
@@ -77,7 +77,7 @@ body {
 	border: 1px solid var(--border-color);
 }
 
-.background-img-container {
+.header-image-container {
 	position: absolute;
 	width: 100%;
 	height: 30%;
@@ -87,14 +87,14 @@ body {
 	overflow: hidden;
 }
 
-.background-img {
+.header-image {
 	width: 100%;
 	height: 100%;
 	object-fit: cover;
 	filter: blur(1px);
 }
 
-.card .link-info {
+.profile-card .link-info {
 	position: absolute;
 	top: calc(30% - 1rem);
 	left: 50%;
@@ -107,8 +107,8 @@ body {
 	gap: 0.5rem;
 }
 
-.follow-button,
-.portfolio-button {
+.github-follow-button,
+.portfolio-link-button {
 	background: var(--card-bg);
 	cursor: pointer;
 	width: fit-content;
@@ -117,7 +117,7 @@ body {
 	background: greenyellow;
 }
 
-.portfolio-button {
+.portfolio-link-button {
 	background: cornflowerblue;
 }
 
@@ -125,35 +125,35 @@ a {
 	text-decoration: none;
 }
 
-.card button svg {
+.profile-card button svg {
 	width: 1rem;
 	height: 1rem;
 	fill: var(--text-color);
 	transition: all 0.3s ease;
 }
 
-.follow-button {
+.github-follow-button {
 	display: flex;
 	align-items: center;
 	justify-content: center;
 	gap: 6px;
 }
 
-.portfolio-button {
+.portfolio-link-button {
 	display: flex;
 	align-items: center;
 	justify-content: center;
 	gap: 6px;
 }
 
-.basic-info-container {
+.profile-section-container {
 	display: flex;
 	align-items: center;
 	justify-content: center;
 	height: 30%;
 }
 
-.basic-info {
+.profile-info-wrapper {
 	display: flex;
 	flex-direction: row;
 	align-items: center;
@@ -171,7 +171,7 @@ a {
 	border: 1px solid var(--border-color) / 30;
 }
 
-.profile-image {
+.user-avatar {
 	width: 100px;
 	height: 100px;
 	object-fit: cover;
@@ -179,7 +179,7 @@ a {
 	border: 1px solid var(--border-color);
 }
 
-.background-pattern {
+.page-background-pattern {
 	position: absolute;
 	top: 0;
 	left: 0;
@@ -199,20 +199,21 @@ a {
 	z-index: 10;
 }
 
-.profile-info {
+.user-details {
 	padding-right: 2rem;
 }
 
-.details {
+.main-content {
 	gap: 1rem;
 	margin-top: 1rem;
 	padding: 0rem 0.5rem 1.5rem;
 	height: 70%;
 }
 
-.skill-section-container {
+.skills-and-social-container {
 	display: flex;
 	flex-direction: column;
+	justify-content: space-between;
 	gap: 0.5rem;
 	padding: 0.8rem 0.3rem;
 	background: var(--bg-secondary-color);
@@ -224,14 +225,15 @@ a {
 	overflow-x: hidden;
 }
 
-.skill-section-container span {
-	font-size: 1.2rem;
-	text-align: center;
-	color: var(--text-color);
-	font-weight: 600;
+.skills-section {
+	display: flex;
+	flex-direction: column;
+	gap: 0.5rem;
+	justify-content: center;
+	align-items: center;
 }
 
-.skill-section {
+.skills-grid {
 	display: flex;
 	flex-direction: row;
 	flex-wrap: wrap;
@@ -239,4 +241,101 @@ a {
 	justify-content: center;
 	gap: 0.5rem;
 	height: fit-content;
+}
+
+.separator {
+	width: 100%;
+	height: 1px;
+	background-color: var(--border-color);
+}
+
+.social-section-wrapper {
+	display: flex;
+	flex-direction: column;
+	gap: 0.5rem;
+	justify-content: center;
+	align-items: center;
+}
+
+/* Social and Donate Buttons */
+.social-links-container {
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+	justify-content: center;
+	gap: 0.5rem;
+	flex-wrap: wrap;
+}
+
+.social-link-button,
+.donation-button {
+	background: var(--card-bg);
+	cursor: pointer;
+	width: fit-content;
+	border-radius: var(--border-radius);
+	padding: 0.3rem 0.5rem;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	gap: 6px;
+	border: 1px solid var(--border-color);
+	color: var(--text-color);
+	font-size: 0.9rem;
+	transition: all 0.3s ease;
+}
+
+.twitter-link-button {
+	background: #1da1f2;
+	color: white;
+	border-color: #1da1f2;
+}
+
+.twitter-link-button:hover {
+	background: #0d8bd9;
+	border-color: #0d8bd9;
+}
+
+.linkedin-link-button {
+	background: #0077b5;
+	color: white;
+	border-color: #0077b5;
+}
+
+.linkedin-link-button:hover {
+	background: #005885;
+	border-color: #005885;
+}
+
+.donation-button {
+	background: #ff5722;
+	color: white;
+	border-color: #ff5722;
+}
+
+.donation-button:hover {
+	background: #e64a19;
+	border-color: #e64a19;
+}
+
+.social-link-button svg,
+.donation-button svg {
+	width: 1rem;
+	height: 1rem;
+	fill: currentColor;
+	transition: all 0.3s ease;
+}
+
+.title {
+	font-size: 1.2rem;
+	text-align: center;
+	color: var(--text-color);
+	font-weight: 600;
+}
+
+.social-donate-container-wrapper {
+	display: flex;
+	flex-direction: column;
+	gap: 0.5rem;
+	justify-content: center;
+	align-items: center;
 }

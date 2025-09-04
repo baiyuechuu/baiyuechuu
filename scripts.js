@@ -1,4 +1,4 @@
-const themeToggle = document.querySelector(".theme-toggle");
+const themeToggle = document.querySelector(".dark-mode-toggle");
 const prefersDarkScheme = window.matchMedia("(prefers-color-scheme: dark)");
 
 const currentTheme =
@@ -33,9 +33,9 @@ const loadProfile = async () => {
 	const githubData = await fetchUserData();
 	console.log(githubData);
 
-	const profileImage = document.querySelector(".basic-info");
-	profileImage.innerHTML = `<img src="${githubData.avatar_url}" alt="Profile Image" class="profile-image">
-  <div class="profile-info">
+	const profileImage = document.querySelector(".profile-info-wrapper");
+	profileImage.innerHTML = `<img src="${githubData.avatar_url}" alt="Profile Image" class="user-avatar">
+  <div class="user-details">
     <h2>${githubData.name}</h2>
     <span>@${githubData.login}</span>
     <p class="bio">${githubData.bio}</p>
@@ -103,7 +103,7 @@ const skillIcons = [
 	"vite",
 ];
 
-const skillSection = document.querySelector(".skill-section");
+const skillSection = document.querySelector(".skills-grid");
 
 skillIcons.forEach((icon) => {
 	const iconElement = document.createElement("img");
