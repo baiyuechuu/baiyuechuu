@@ -354,12 +354,53 @@ a {
 	display: flex;
 	flex-grow: 1;
 	gap: 0.5rem;
-	justify-content: center;
-	align-items: center;
 	padding: 0.5rem;
 	background: var(--background-color);
 	border-radius: 10px;
 	border: 1px dashed var(--border-color);
+}
+
+.stat {
+	display: flex;
+	flex-direction: row;
+	gap: 0.5rem;
+	justify-content: space-between;
+	align-items: center;
+	height: fit-content;
+	width: 100%;
+	padding: 0.5rem;
+	border-bottom: 1px solid var(--border-color);
+}
+
+.stat-item {
+	display: flex;
+	flex-direction: column;
+	gap: 0.5rem;
+	justify-content: center;
+	align-items: start;
+}
+
+.stat-number {
+	font-size: 1.5rem;
+	font-weight: 600;
+}
+
+.stat-label {
+	display: flex;
+	align-items: center;
+	gap: 0.2rem;
+}
+
+.stat-label:nth-child(1) svg {
+	color: orangered;
+}
+
+.stat-label:nth-child(2) svg {
+	color: green;
+}
+
+.stat-label:nth-child(3) svg {
+	color: blue;
 }
 
 @media screen and (max-width: 768px) {
