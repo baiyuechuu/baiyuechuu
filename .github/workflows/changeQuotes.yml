@@ -1,7 +1,7 @@
 name: Change qoute every day and push to GitHub
 on:
   schedule:
-    - cron: "0 */6 * * *"
+    - cron: "0 1,10 * * *"
   workflow_dispatch:
 jobs:
   update-quotes:
